@@ -8,17 +8,17 @@ nav {
     height: 100%;
     width: 100%;
     margin: 0;
-    padding-top: 10px;
-    Padding-left: 10px;
-    padding-bottom: 10px;
+    padding: 10px 0 10px 10px;
     background-color: skyblue;
     font-weight: 400;
     letter-spacing: 1px;
-    border: none;
 }
 
-.nav-item a:hover {
-    border-bottom: 1px solid darkorange;
+/*------------------------------------Orange Underline--------*/
+
+.nav-item a:hover,
+.list-inline-item a:hover {
+    border-bottom: 2px solid darkorange;
 }
 
 /*------------------------------------Modal--------*/
@@ -32,14 +32,23 @@ nav {
     background-color: skyblue;
 }
 
-/*------------------------------------Font Awesome--------*/
+/*------------------------------------Font Awesome Aeroplane--------*/
 
 i {
-    color: #ec880ed0;
+    color: darkorange;
 }
 
+/*------------------------------------Footer--------*/
 
+.social-links {
+    text-align: center;
+    background-color: skyblue;
+    width: 100%;
+    margin: 0;
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;  
+}
 
-
-
-
+.social-links i {
+    color: #686262ce;
+}
