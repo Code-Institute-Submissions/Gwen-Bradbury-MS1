@@ -13,3 +13,16 @@ nav {
     letter-spacing: 1px;
     border: none;
 }
+
+.modal {
+    text-align: center;
+}
+
+.modal-header, 
+.modal-footer {
+    background-color: skyblue;
+}
+
+
+
+
