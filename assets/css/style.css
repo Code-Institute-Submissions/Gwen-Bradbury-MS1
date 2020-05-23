@@ -2,17 +2,26 @@ body {
     font-family: 'Oxygen', sans-serif;
 }
 
+/*------------------------------------Navbar--------*/
+
 nav {
     height: 100%;
     width: 100%;
     margin: 0;
     padding-top: 10px;
     Padding-left: 10px;
+    padding-bottom: 10px;
     background-color: skyblue;
     font-weight: 400;
     letter-spacing: 1px;
     border: none;
 }
+
+.nav-item a:hover {
+    border-bottom: 1px solid darkorange;
+}
+
+/*------------------------------------Modal--------*/
 
 .modal {
     text-align: center;
@@ -22,6 +31,14 @@ nav {
 .modal-footer {
     background-color: skyblue;
 }
+
+/*------------------------------------Font Awesome--------*/
+
+i {
+    color: #ec880ed0;
+}
+
+
 
 
 
