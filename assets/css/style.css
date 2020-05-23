@@ -1,4 +1,11 @@
 body {
-    background-color: deepskyblue;
+    font-family: 'Oxygen', sans-serif;
 }
 
+nav {
+    height: 100VH;
+    margin: 0;
+    padding-top: 10px;
+    Padding-left: 10px;
+    background-color: skyblue;
+}
