@@ -52,14 +52,20 @@ i {
     color: darkorange;
 }
 
-/*------------------------------------Home Image--------*/
+/*------------------------------------Main Image--------*/
 
-img {
+.main-image {
+    background: url("..assets/images/thumbnail_image18.jpg");
     height: 700px;
     padding: 0;
     width:100%;
     border-top: 2px solid darkorange;
     border-bottom: 2px solid darkorange;
+}
+
+.know {
+    background: url('..assets/images/image39.jpeg')
+    
 }
 
 /*------------------------------------Footer--------*/
