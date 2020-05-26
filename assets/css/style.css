@@ -54,19 +54,25 @@ i {
 
 /*------------------------------------Main Image--------*/
 
+/*------------------------------------Taken from Code Institutes tutorial video--------*/
 .main-image {
-    background: url("..assets/images/thumbnail_image18.jpg");
-    height: 700px;
-    padding: 0;
-    width:100%;
+    height: 100vh;
+
+    background: url('/assets/images/thumbnail_image18.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
     border-top: 2px solid darkorange;
     border-bottom: 2px solid darkorange;
-}
+ }
 
-.know {
-    background: url('..assets/images/image39.jpeg')
-    
-}
 
 /*------------------------------------Footer--------*/
 
