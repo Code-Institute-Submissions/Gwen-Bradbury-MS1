@@ -53,9 +53,10 @@ i {
 /*------------------------------------Home Image--------*/
 
 img {
-    height:50%;
+    height:700px;
     width: 100%;
-    border: 2px solid darkorange;
+    border-top: 2px solid darkorange;
+    border-bottom: 2px solid darkorange;
 }
 
 /*------------------------------------Footer--------*/
