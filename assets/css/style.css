@@ -14,6 +14,10 @@ nav {
     letter-spacing: 1px;
 }
 
+.navbar-toggler {
+    border: none;
+}
+
 /*------------------------------------Orange Underline--------*/
 
 .nav-item a:hover,
@@ -32,6 +36,14 @@ nav {
     background-color: skyblue;
 }
 
+.btn-primary {
+    background-color: darkorange;
+}
+
+.btn-primary:hover {
+    background-color: #e08a21
+}
+
 /*------------------------------------Font Awesome Aeroplane--------*/
 
 i {
@@ -41,7 +53,7 @@ i {
 /*------------------------------------Home Image--------*/
 
 img {
-    height:100%;
+    height:50%;
     width: 100%;
     border: 2px solid darkorange;
 }
