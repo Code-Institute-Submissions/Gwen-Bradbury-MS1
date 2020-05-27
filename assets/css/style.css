@@ -76,10 +76,19 @@ h2 {
 /*------------------------------------Main Image--------*/
 
 /*------------------------------------Taken from Code Institutes tutorial video--------*/
+
+.main-image {
+     background: url('/assets/images/thumbnail_image18.jpg') no-repeat center center fixed;
+ }
+
+ .main-image2 {
+     background: url('/assets/images/thumbnail_image41.jpg') no-repeat right center fixed;
+ }
+
+.main-image2,
 .main-image {
     height: 100vh;
-
-    background: url('/assets/images/thumbnail_image18.jpg') no-repeat center center fixed;
+    
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -90,7 +99,7 @@ h2 {
     justify-content: center;
 
     position: relative;
- }
+}
 
  /*------------------------------------Did you know?--------*/
 
