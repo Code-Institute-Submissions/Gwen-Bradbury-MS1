@@ -2,18 +2,28 @@
 
 body {
     font-family: "Oxygen", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #fff;
 }
 
 /*------------------------------------Navbar--------*/
 
+h2,
 nav {
     height: 100%;
     width: 100%;
     margin: 0;
     padding: 10px 0 10px 10px;
     background-color: skyblue;
-    font-weight: 400;
-    letter-spacing: 1px;
 }
 
 .navbar-toggler {
@@ -46,10 +56,19 @@ nav {
     background-color: #e08a21
 }
 
-/*------------------------------------Font Awesome Aeroplane--------*/
+/*------------------------------------Font Awesome Aeroplane and Borders--------*/
 
 i {
     color: darkorange;
+}
+
+img,
+nav,
+footer,
+.main-image,
+h2 {
+    border-top: 2px solid darkorange;
+    border-bottom: 2px solid darkorange;
 }
 
 /*------------------------------------Main Image--------*/
@@ -69,10 +88,34 @@ i {
     justify-content: center;
 
     position: relative;
-    border-top: 2px solid darkorange;
-    border-bottom: 2px solid darkorange;
  }
 
+ /*------------------------------------Did you know?--------*/
+
+h2 {
+    font-size: 23px;
+}
+
+.text {
+    font-family: "Open+Sans", sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.img {
+    background: url('/assets/images/image39.jpeg') no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+
+}
 
 /*------------------------------------Footer--------*/
 
