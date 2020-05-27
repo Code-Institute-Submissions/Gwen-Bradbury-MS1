@@ -68,7 +68,6 @@ i {
 img,
 nav,
 footer,
-.main-image,
 h2 {
     border-top: 2px solid darkorange;
     border-bottom: 2px solid darkorange;
@@ -102,7 +101,7 @@ h2 {
 }
 
 .text {
-    padding-top: 50px;
+    Padding-top: 50px;
     font-family: "Open+Sans", sans-serif;
     font-size: 15px;
     text-align: center;
@@ -110,9 +109,10 @@ h2 {
     color: #fff;
 }
 
+.img2,
 .img {
     height: 50vh;
-    background: url('/assets/images/image39.jpeg') no-repeat center;
+    
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -122,6 +122,14 @@ h2 {
     align-items: center;
     justify-content: center;
 
+}
+
+.img {
+    background: url('/assets/images/image39.jpeg') no-repeat center;
+}
+
+.img2 {
+    background: url('/assets/images/image46.jpeg') no-repeat center;
 }
 
 /*------------------------------------Footer--------*/
