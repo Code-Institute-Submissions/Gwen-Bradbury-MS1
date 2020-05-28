@@ -17,9 +17,8 @@ a {
     text-decoration: none;
 }
 
-/*------------------------------------Navbar--------*/
+/*------------------------------------Navbar and Headings--------*/
 
-.more-btn,
 h2,
 nav {
     height: 100%;
@@ -51,12 +50,23 @@ nav {
     background-color: skyblue;
 }
 
+/*------------------------------------Buttons--------*/
+
 .btn-primary {
     background-color: darkorange;
 }
 
 .btn-primary:hover {
     background-color: #e08a21
+}
+
+.more-btn {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    text-align: right;
+    padding: 10px 20px 10px 10px; 
+    background-color: skyblue;
 }
 
 /*------------------------------------Font Awesome Aeroplane, Borders--------*/
