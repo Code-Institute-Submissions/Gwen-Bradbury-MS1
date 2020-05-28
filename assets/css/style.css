@@ -87,7 +87,7 @@ h2 {
 /*------------------------------------Taken from Code Institutes tutorial video--------*/
 
 .main-image {
-     background: url('/assets/images/thumbnail_image18.jpg') no-repeat center center fixed;
+     background: url('/assets/images/girls4.jpg') no-repeat center center fixed;
  }
 
  .main-image2 {
@@ -149,11 +149,11 @@ h2 {
 }
 
 .img {
-    background: url('/assets/images/image39.jpeg') no-repeat center;
+    background: url('/assets/images/girls6.jpg') no-repeat center;
 }
 
 .img2 {
-    background: url('/assets/images/image46.jpeg') no-repeat center;
+    background: url('/assets/images/girls8.jpg') no-repeat center;
 }
 
 .img3 {
@@ -165,7 +165,7 @@ h2 {
 }
 
 .img5 {
-    background: url('/assets/images/image35.jpeg') no-repeat center;
+    background: url('/assets/images/girls1.jpg') no-repeat center;
 }
 
 .img6 {
@@ -189,9 +189,10 @@ h2 {
     padding: 10px 20px 10px 20px;
     font-size: 20px;  
     font-weight: 300;
+    text-align: center;
 }
 
 .social-links i {
-    color: black;
+    color: rgba(87, 84, 84, 0.719);
 }
 
