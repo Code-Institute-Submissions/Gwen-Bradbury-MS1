@@ -87,7 +87,7 @@ h2 {
 /*------------------------------------Taken from Code Institutes tutorial video--------*/
 
 .main-image {
-     background: url('/assets/images/girls4.jpg') no-repeat center center fixed;
+     background: url('/assets/images/girls4.jpg') no-repeat left center fixed;
  }
 
  .main-image2 {
