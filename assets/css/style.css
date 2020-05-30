@@ -92,7 +92,7 @@ h2 {
     border-bottom: 2px solid darkorange;
 }
 
-/*------------------------------------Main Images top and bottom--------*/
+/*------------------------------------Main Images top and bottom index.html--------*/
 
 /*------------------------------------Taken from Code Institutes tutorial video--------*/
 
@@ -121,7 +121,7 @@ h2 {
     position: relative;
 }
 
- /*------------------------------------Did you know? and Gallery Section--------*/
+ /*------------------------------------Did you know? and Gallery Section index.html--------*/
 
 h2 {
     font-size: 20px;
@@ -189,6 +189,11 @@ h2 {
 .img8 {
     background: url('/assets/images/image33.jpeg') no-repeat center;
 }
+
+/*------------------------------------Gallery.html--------*/
+
+
+
 
 /*------------------------------------Footer--------*/
 
