@@ -120,7 +120,6 @@ h2 {
     padding-bottom: 20px;
 }
 
-.col-sm-4,
 .col-sm-6 {
     padding: 0;
 }
@@ -135,7 +134,7 @@ h2 {
 }
 
 .media {
-    background-color: skyblue;
+    background-color: #e08a21;
     align-items: center;
 }
 
