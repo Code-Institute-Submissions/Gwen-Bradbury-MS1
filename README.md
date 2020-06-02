@@ -4,5 +4,7 @@ All statistical information taken from International society of women pilots. ht
 Main images html and css from code institues tutorial video.  https://courses.codeinstitute.net/
 All images used are my own.
 carousel from https://getbootstrap.com/docs/4.4/components/carousel/  
+WASP's https://www.npr.org/
+99's https://www.ninety-nines.org/
 
 Website is about promoting women in aviaton!
