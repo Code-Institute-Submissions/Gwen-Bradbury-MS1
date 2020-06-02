@@ -25,7 +25,7 @@ nav {
     width: 100%;
     margin: 0;
     padding: 10px 0 10px 10px;
-    background-color: skyblue;
+    background-color: #87ceeb;
 }
 
 .navbar-toggler {
@@ -36,7 +36,7 @@ nav {
 
 .nav-item a:hover,
 .list-inline-item a:hover {
-    border-bottom: 2px solid darkorange;
+    border-bottom: 2px solid #ff8c00;
 }
 
 /*------------------------------------Modal--------*/
@@ -47,13 +47,13 @@ nav {
 
 .modal-header, 
 .modal-footer {
-    background-color: skyblue;
+    background-color: #87ceeb;
 }
 
 /*------------------------------------Buttons--------*/
 
 .btn-primary {
-    background-color: darkorange;
+    background-color: #ff8c00;
 }
 
 .btn-primary:hover {
@@ -66,21 +66,21 @@ nav {
     margin: 0;
     text-align: right;
     padding: 10px 20px 10px 10px; 
-    background-color: skyblue;
+    background-color: #87ceeb;
 }
 
 /*------------------------------------Font Awesome Aeroplane, Borders--------*/
 
 #ac,
 i {
-    color: darkorange;
+    color: #ff8c00;
 }
 
 nav,
 footer,
 h2 {
-    border-top: 2px solid darkorange;
-    border-bottom: 2px solid darkorange;
+    border-top: 2px solid #ff8c00;
+    border-bottom: 2px solid #ff8c00;
 }
 
 /*------------------------------------Main Images top and bottom index.html--------*/
@@ -93,12 +93,12 @@ h2 {
 
  .main-image2 {
      background: url('/assets/images/thumbnail_image41.jpg') no-repeat right center fixed;
-     border-top: 2px solid darkorange;
+     border-top: 2px solid #ff8c00;
  }
 
 .main-image2,
 .main-image {
-    height: 90vh;
+    height: 100vh;
     
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -129,7 +129,7 @@ h2 {
     font-family: "Open+Sans", sans-serif;
     font-size: 15px;
     text-align: center;
-    background-color: darkorange;
+    background-color: #ff8c00;
     color: #fff;
 }
 
@@ -140,10 +140,15 @@ h2 {
 
 /*------------------------------------Gallery.html--------*/
 
+.carousel-item img {
+    height: 100vh;
+    object-fit: cover;
+}
+
 /*------------------------------------Footer--------*/
 
 .social-links {
-    background-color: skyblue;
+    background-color: #87ceeb;
     width: 100%;
     margin: 0;
     padding: 10px 20px 10px 20px;
@@ -153,6 +158,6 @@ h2 {
 }
 
 .social-links i {
-    color: rgba(87, 84, 84, 0.719);
+    color: #575454b7;
 }
 
