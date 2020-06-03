@@ -79,6 +79,7 @@ i {
     color: #ff8c00;
 }
 
+.modal-body,
 nav,
 footer,
 h2 {
@@ -128,7 +129,7 @@ h2 {
 }
 
 .text {
-    padding: 20px 20px 10px 20px;
+    padding: 20px 20px 20px 20px;
     font-family: "Open+Sans", sans-serif;
     font-size: 15px;
     text-align: center;
@@ -139,7 +140,7 @@ h2 {
 .media {
     background: url('/assets/images/thumbnail_image20.jpg') no-repeat center center fixed;
     align-items: center;
-    background-color: #87ceeb;
+    background-color: #575454b7;
 }
 
 .gallery-image {
@@ -153,6 +154,20 @@ h2 {
 .carousel-item img {
     height: 100vh;
     object-fit: cover;
+}
+
+.carousel-item p {
+    font-family: "Open+Sans", sans-serif;
+}
+
+/*------------------------------------Meet.html--------*/
+.meet-us {
+    padding-top: 15px;
+    background-color: #1f65e7;
+}
+
+.photo {
+    align-items: center;
 }
 
 /*------------------------------------Footer--------*/
