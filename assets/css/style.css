@@ -34,6 +34,7 @@ nav {
 
 /*------------------------------------Orange Underline--------*/
 
+.carousel-item p,
 .nav-item a:hover,
 .list-inline-item a:hover {
     border-bottom: 2px solid #ff8c00;
@@ -52,6 +53,8 @@ nav {
 
 /*------------------------------------Buttons--------*/
 
+.carousel-control-next-icon,
+.carousel-control-prev-icon,
 .btn-primary {
     background-color: #ff8c00;
 }
