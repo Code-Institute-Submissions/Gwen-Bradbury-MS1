@@ -137,8 +137,15 @@ h2 {
 }
 
 .media {
-    background-color: #e08a21;
+    background: url('/assets/images/thumbnail_image20.jpg') no-repeat center center fixed;
     align-items: center;
+    background-color: #87ceeb;
+}
+
+.gallery-image {
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 2px solid #ff8c00;
 }
 
 /*------------------------------------Gallery.html--------*/
