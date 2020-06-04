@@ -163,11 +163,16 @@ h2 {
 /*------------------------------------Meet.html--------*/
 .meet-us {
     padding-top: 15px;
-    background-color: #1f65e7;
+    background-color: #575454b7;
 }
 
 .photo {
     align-items: center;
+    padding-top: 15px;
+}
+
+.col-sm-8 {
+    margin-bottom: 10px;
 }
 
 /*------------------------------------Footer--------*/
