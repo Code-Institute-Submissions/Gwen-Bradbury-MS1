@@ -7,4 +7,8 @@ carousel in gallery.html from https://getbootstrap.com/docs/4.4/components/carou
 WASP's https://www.npr.org/
 99's https://www.ninety-nines.org/
 
+Adegbenga helped with -navbar
+                      -headline image
+                      -did you know images and text
+
 Website is about promoting women in aviaton!
