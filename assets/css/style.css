@@ -92,11 +92,11 @@ h2 {
 /*------------------------------------Taken from Code Institutes tutorial video--------*/
 
 .main-image {
-     background: url('MS1/assets/images/girls4.jpg') no-repeat left center fixed;
+     background: url('/MS1/assets/images/girls4.jpg') no-repeat left center fixed;
  }
 
  .main-image2 {
-     background: url('MS1/assets/images/thumbnail_image41.jpg') no-repeat right center fixed;
+     background: url('/MS1/assets/images/thumbnail_image41.jpg') no-repeat right center fixed;
      border-top: 2px solid #ff8c00;
  }
 
@@ -138,7 +138,7 @@ h2 {
 }
 
 .media {
-    background: url('MS1/assets/images/thumbnail_image20.jpg') no-repeat center center fixed;
+    background: url('/MS1/assets/images/thumbnail_image20.jpg') no-repeat center center fixed;
     align-items: center;
     background-color: #575454b7;
 }
