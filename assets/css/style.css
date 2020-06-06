@@ -96,12 +96,12 @@ h2 {
 .headline-image {
      height: 40vh;
      display: flex;
-     background: url('./assets/images/girls4.jpg') no-repeat;
+     background: url('../images/girls4.jpg') no-repeat;
      background-size: 100% 100%;
  }
 
  .main-image2 {
-     background: url('./assets/images/thumbnail_image41.jpg') no-repeat right center fixed;
+     background: url('../images/thumbnail_image41.jpg') no-repeat right center fixed;
      border-top: 2px solid #ff8c00;
  }
 
