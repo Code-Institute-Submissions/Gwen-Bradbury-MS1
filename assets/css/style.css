@@ -25,7 +25,8 @@ nav {
     width: 100%;
     margin: 0;
     padding: 10px 0 10px 10px;
-    background-color: #87ceeb;
+    background-color:#111010e8;
+    color: #fff;
 }
 
 .navbar-toggler {
@@ -48,7 +49,8 @@ nav {
 
 .modal-header, 
 .modal-footer {
-    background-color: #87ceeb;
+    background-color: #111010e8;
+    color: #fff;
 }
 
 /*------------------------------------Buttons--------*/
@@ -69,7 +71,7 @@ nav {
     margin: 0;
     text-align: right;
     padding: 10px 20px 10px 10px; 
-    background-color: #87ceeb;
+    background-color: #111010e8;
 }
 
 /*------------------------------------Font Awesome Aeroplane, Borders--------*/
@@ -179,7 +181,7 @@ h2 {
 /*------------------------------------Footer--------*/
 
 .social-links {
-    background-color: #87ceeb;
+    background-color: #111010e8;
     width: 100%;
     margin: 0;
     padding: 10px 20px 10px 20px;
@@ -189,6 +191,6 @@ h2 {
 }
 
 .social-links i {
-    color: #575454b7;
+    color: #fff;
 }
 

@@ -11,4 +11,6 @@ Adegbenga helped with -navbar
                       -headline image
                       -did you know images and text
 
+Images and quotes of other pilots used with thier written permission.
+
 Website is about promoting women in aviaton!
