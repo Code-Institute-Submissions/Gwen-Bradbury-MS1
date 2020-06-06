@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Oxygen:wght@300;400;700&display=swap');
+
+body {
+    font-family: "Oxygen", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+​
+a:hover,
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Meet the aviatrices section */
+.title {
+  color: grey;
+}
+​
+/* Did you know? and Gallery Section index.html */
+​h2 {
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+​
+.text {
+    padding: 20px 20px 20px 20px;
+    font-family: "Open+Sans", sans-serif;
+    font-size: 15px;
+}
+​
+.media {
+    align-items: center;
+    background-color: #575454b7;
+}
+​
+.gallery-image {
+    border: 5px outset;
+}
+
+/* Headline Image*/
+.headline-image {
+     height: 40vh;
+     display: flex;
+     background: url('../images/girls4.jpg') no-repeat;
+     background-size: 100% 100%;
+ }
+
+ /* Navbar and Headings */
+​.modal-body,
+nav,
+footer,
+h2 {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 10px 0 10px 10px;
+    background-color:#111010e8;
+    color: #fff;
+}
+​
+/* Footer */
+​.social-links {
+    background-color: #111010e8;
+    width: 100%;
+    margin: 0;
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;  
+    font-weight: 300;
+    text-align: center;
+}
+​
+.social-links i {
+    color: #fff;
+}

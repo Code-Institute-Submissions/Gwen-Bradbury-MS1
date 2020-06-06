@@ -11,7 +11,7 @@ a {
     color: #fff;
     text-decoration: none;
 }
-​
+
 /* Meet the aviatrices section */
 .title {
   color: grey;
@@ -32,7 +32,6 @@ a {
 .button:hover {
   background-color: #555;
 }
-​
 /*------------------------------------Navbar and Headings--------*/
 ​
 h2,
@@ -78,7 +77,7 @@ nav {
 }
 ​
 .btn-warning:hover {
-    background-color: #e08a21
+    background-color: #e08a21;
 }
 ​
 .more-btn {
@@ -115,7 +114,7 @@ h2 {
      background: url('../images/girls4.jpg') no-repeat;
      background-size: 100% 100%;
  }
-​
+
  .main-image2 {
      background: url('../images/thumbnail_image41.jpg') no-repeat right center fixed;
      border-top: 2px solid #ff8c00;
@@ -134,7 +133,6 @@ h2 {
     justify-content: center;
 ​
     position: relative;
-}
 ​
  /*------------------------------------Did you know? and Gallery Section index.html--------*/
 ​
