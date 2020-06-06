@@ -1,24 +1,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Oxygen:wght@300;400;700&display=swap');
-
+​
 body {
     font-family: "Oxygen", sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
 }
-
-.container-fluid {
-    margin: 0;
-    padding: 0;
-}
-
+​
 a:hover,
 a {
     color: #fff;
     text-decoration: none;
 }
-
+​
+/* Meet the aviatrices section */
+.title {
+  color: grey;
+}
+​
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+​
+.button:hover {
+  background-color: #555;
+}
+​
 /*------------------------------------Navbar and Headings--------*/
-
+​
 h2,
 nav {
     height: 100%;
@@ -28,43 +44,43 @@ nav {
     background-color:#111010e8;
     color: #fff;
 }
-
+​
 .navbar-toggler {
     border: none;
 }
-
+​
 /*------------------------------------Orange Underline--------*/
-
+​
 .carousel-item p,
 .nav-item a:hover,
 .list-inline-item a:hover {
     border-bottom: 2px solid #ff8c00;
 }
-
+​
 /*------------------------------------Modal--------*/
-
+​
 .modal {
     text-align: center;
 }
-
+​
 .modal-header, 
 .modal-footer {
     background-color: #111010e8;
     color: #fff;
 }
-
+​
 /*------------------------------------Buttons--------*/
-
+​
 .carousel-control-next-icon,
 .carousel-control-prev-icon,
 .btn-warning {
     background-color: #ff8c00;
 }
-
+​
 .btn-warning:hover {
     background-color: #e08a21
 }
-
+​
 .more-btn {
     height: 100%;
     width: 100%;
@@ -73,14 +89,14 @@ nav {
     padding: 10px 20px 10px 10px; 
     background-color: #111010e8;
 }
-
+​
 /*------------------------------------Font Awesome Aeroplane, Borders--------*/
-
+​
 #ac,
 i {
     color: #ff8c00;
 }
-
+​
 .modal-body,
 nav,
 footer,
@@ -88,23 +104,23 @@ h2 {
     border-top: 2px solid #ff8c00;
     border-bottom: 2px solid #ff8c00;
 }
-
+​
 /*------------------------------------Main Images top and bottom index.html--------*/
-
+​
 /*------------------------------------Taken from Code Institutes tutorial video--------*/
-
+​
 .headline-image {
      height: 40vh;
      display: flex;
      background: url('../images/girls4.jpg') no-repeat;
      background-size: 100% 100%;
  }
-
+​
  .main-image2 {
      background: url('../images/thumbnail_image41.jpg') no-repeat right center fixed;
      border-top: 2px solid #ff8c00;
  }
-
+​
 .main-image2 {
     height: 80vh;
     
@@ -112,70 +128,64 @@ h2 {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
+​
     display: flex;
     align-items: center;
     justify-content: center;
-
+​
     position: relative;
 }
-
+​
  /*------------------------------------Did you know? and Gallery Section index.html--------*/
-
+​
 h2 {
     font-size: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
-
-.col-sm-6 {
-    padding: 0;
-}
-
+​
 .text {
     padding: 20px 20px 20px 20px;
     font-family: "Open+Sans", sans-serif;
     font-size: 15px;
 }
-
+​
 .media {
     align-items: center;
     background-color: #575454b7;
 }
-
+​
 .gallery-image {
-    padding-left: 15px;
-    padding-right: 15px;
-    border: 2px solid #ff8c00;
+    border: 5px outset;
 }
-
+​
 /*------------------------------------Gallery.html--------*/
-
+​
 .carousel-item img {
     height: 100vh;
     object-fit: cover;
 }
-
+​
 .carousel-item p {
     font-family: "Open+Sans", sans-serif;
 }
-
+​
 /*------------------------------------Meet.html--------*/
 .meet-us {
     padding-top: 15px;
 }
-
+​
 .photo {
     align-items: center;
     padding-top: 15px;
 }
-
+​
 .col-sm-8 {
     margin-bottom: 10px;
 }
-
+​
 /*------------------------------------Footer--------*/
-
+​
 .social-links {
     background-color: #111010e8;
     width: 100%;
@@ -185,8 +195,7 @@ h2 {
     font-weight: 300;
     text-align: center;
 }
-
+​
 .social-links i {
     color: #fff;
 }
-
