@@ -105,7 +105,7 @@ h2 {
      border-top: 2px solid #ff8c00;
  }
 
-.main-image2, {
+.main-image2 {
     height: 80vh;
     
     -webkit-background-size: cover;
@@ -136,8 +136,6 @@ h2 {
     padding: 20px 20px 20px 20px;
     font-family: "Open+Sans", sans-serif;
     font-size: 15px;
-    background-color: #575454b7;
-    color: #fff;
 }
 
 .media {
