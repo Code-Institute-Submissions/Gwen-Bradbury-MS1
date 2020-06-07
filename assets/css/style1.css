@@ -35,17 +35,10 @@ a {
     background-color: #575454b7;
 }
 ​
-.gallery-image {
-    border: 5px outset;
-}
+
 
 /* Headline Image*/
-.headline-image {
-     height: 40vh;
-     display: flex;
-     background: url('../images/girls4.jpg') no-repeat;
-     background-size: 100% 100%;
- }
+
 
  /* Navbar and Headings */
 ​.modal-body,
@@ -62,15 +55,26 @@ h2 {
 ​
 /* Footer */
 ​.social-links {
+    text-align: center;
     background-color: #111010e8;
     width: 100%;
     margin: 0;
     padding: 10px 20px 10px 20px;
     font-size: 20px;  
     font-weight: 300;
-    text-align: center;
 }
 ​
 .social-links i {
     color: #fff;
 }
+
+.gallery-image {
+    border: 5px outset;
+}
+
+.headline-image {
+     height: 40vh;
+     display: flex;
+     background: url('../images/girls4.jpg') no-repeat;
+     background-size: 100% 100%;
+ }

@@ -18,13 +18,13 @@
       crossorigin="anonymous"
     />
 
-    <link rel="stylesheet" href="assets/css/style1.css" />
+    <link rel="stylesheet" href="assets/css/style2.css" />
   </head>
   <body>
     <!-- Navbar start -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
       <a href="/" class="navbar-brand"
-        >HERE COME THE GIRLS... <i class="fas fa-plane"></i
+        >HERE COME THE GIRLS... <i class="fas fa-plane" id="ac"></i
         ><span class="sr-only">orange aeroplane</span></a
       >
       <button
@@ -61,7 +61,6 @@
             >
           </li>
         </ul>
-
         <form class="form-inline my-2 my-lg-0">
           <input
             class="form-control mr-sm-2"
@@ -76,8 +75,7 @@
       </div>
     </nav>
     <!-- Navbar end -->
-
-    <!-- Headline Image start -->
+<!-- Headline Image start -->
     <div
       class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light headline-image"
     >
@@ -88,11 +86,10 @@
       </div>
     </div>
     <!-- Headline Image end -->
-
-    <!-------Did you know------>
+    <!--Did you know start-->
     <div class="container-fluid">
       <h2>
-        DID YOU KNOW? <i class="fas fa-plane"></i
+        DID YOU KNOW? <i class="fas fa-plane" id="ac"></i
         ><span class="sr-only">orange aeroplane</span>
       </h2>
       <div class="row mr-3 ml-3 mt-3">
@@ -166,17 +163,17 @@
         </div>
       </div>
     </div>
-
-    <!-------Meet us------>
+<!--Did you know end-->
+    <!--Meet us start-->
     <section class="container-fluid">
         <h2>
-            MEET THE AVIATRICES! <i class="fas fa-plane"></i>
+            MEET THE AVIATRICES! <i class="fas fa-plane" id="ac"></i>
             <span class="sr-only">orange aeroplane</span>
         </h2>
         <div class="row row-cols-1 row-cols-md-2 mt-3 mr-3 ml-3">
             <div class="col mb-4">
                 <div class="card">
-                <img src="./assets/images/girls13.jpg" alt="Jane" class="card-img-top" style="height: 250px; width: 100%;">
+                <img src="./assets/images/girls13.jpg" alt="Jane" class="card-img-top" style="height: 275px; width: 100%;">
                 <div class="container">
                     <p class="title pt-2">Gwen</p>
                     <p style="max-height:90px; height:90px; overflow:auto;">
@@ -190,10 +187,9 @@
                 </div>
                 </div>
             </div>
-
             <div class="col mb-4">
                 <div class="card">
-                <img src="./assets/images/dawn.jpeg" alt="Mike" class="card-img-top" style="height: 250px; width: 100%;">
+                <img src="./assets/images/dawn.jpeg" alt="Mike" class="card-img-top" style="height: 275px; width: 100%;">
                 <div class="container">
                     <p class="title pt-2">Dawn</p>
                     <p style="max-height:90px; height:90px; overflow:auto;">
@@ -202,10 +198,9 @@
                 </div>
                 </div>
             </div>
-
             <div class="col mb-4">
                 <div class="card">
-                <img src="./assets/images/debs.jpeg" alt="John" class="card-img-top" style="height: 250px; width: 100%;">
+                <img src="./assets/images/debs.jpeg" alt="John" class="card-img-top" style="height: 275px; width: 100%;">
                 <div class="container">
                     <p class="title pt-2">Debs</p>
                     <p style="max-height:90px; height:90px; overflow:auto;">
@@ -214,10 +209,9 @@
                 </div>
                 </div>
             </div>
-
             <div class="col mb-4">
                 <div class="card">
-                <img src="./assets/images/michelle.jpg" alt="John" class="card-img-top" style="height: 250px; width: 100%;">
+                <img src="./assets/images/michelle.jpg" alt="John" class="card-img-top" style="height: 275px; width: 100%;">
                 <div class="container">
                     <p class="title pt-2">Michelle</p>
                     <p style="max-height:90px; height:90px; overflow:auto;">
@@ -225,16 +219,16 @@
                     </p>
                 </div>
                 </div>
-            </div>  
+            </div> 
         </div>
     </section>
-
-    <!-------gallery------>
+<!--Meet us end-->
+    <!--Gallery start-->
     <section class="container-fluid">
       <div class="row">
         <div class="col">
           <h2>
-            GALLERY <i class="fas fa-plane"></i
+            GALLERY <i class="fas fa-plane" id="ac"></i
             ><span class="sr-only">orange aeroplane</span>
           </h2>
         </div>
@@ -296,17 +290,17 @@
                     alt="Runway"
                 />
                 <br /><br />
-                <button type="button" class="btn btn-warning float-right">
+                <button type="button" class="btn btn-warning float-right more-button">
                     <a href="gallery.html">More Images...</a>
                 </button>
             </div>
         </div>
     </section>
-
-    <!-- Footer -->
+<!--Gallery end-->
+    <!--Footer start-->
     <footer>
-      <div>
-        <ul class="list-inline social-links">
+      <div class="social-links">
+        <ul class="list-inline">
           <li class="list-inline-item">
             <a target="_blank" href="https://www.facebook.com/">
               <i class="fab fa-facebook" aria-hidden="true"></i>
@@ -336,8 +330,9 @@
         </ul>
       </div>
     </footer>
-
-    <!-------Taken from Bootstrap Modals------>
+<!--Footer end-->
+<!--Modal start-->
+    <!--Taken from Bootstrap Modals-->
     <div class="modal" tabindex="-1" role="dialog" id="findoutmoreModal">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -387,14 +382,14 @@
             >
               Close
             </button>
-            <button type="button" class="btn btn-warning" data-dismiss="modal">
+            <button type="button" class="btn btn-outline-warning" data-dismiss="modal">
               Submit
             </button>
           </div>
         </div>
       </div>
     </div>
-
+<!--Modal end-->
     <script
       src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
       integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
