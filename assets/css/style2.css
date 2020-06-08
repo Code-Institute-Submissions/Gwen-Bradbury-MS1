@@ -15,6 +15,7 @@ i {
     color: #ff8c00;
 }
 
+.headline-image h1,
 .carousel-item p,
 .list-inline-item a:hover,
 .nav-item a:hover {
@@ -70,7 +71,7 @@ h2 {
 
 /* Headline image */
 .headline-image {
-     height: 46vh;
+     height: 50vh;
      display: flex;
      background: url('../images/girls4.jpg') no-repeat;
      background-size: 100% 100%;
