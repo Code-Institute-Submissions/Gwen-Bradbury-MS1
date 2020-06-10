@@ -2,14 +2,16 @@ navbar and navbar button from code institue tutorial video. https://courses.code
 modal from bootstrap. https://getbootstrap.com/docs/4.4/components/modal/
 Cards from https://w3schools.com
 carousel in gallery.html from https://getbootstrap.com/docs/4.4/components/carousel/  
+border around images in index.html gallery section from https://w3schools.com
 
 All statistical information taken from International society of women pilots. https://www.iswap.org/
 WASP's https://www.npr.org/
 99's https://www.ninety-nines.org/
 
-Adegbenga helped with -navbar
+Adegbenga helped with -navbar (added 'search)
                       -headline image
-                      -did you know images and text
+                      -did you know images and text (lining them up)
+                      -border around images
 
 All images used are my own.
 Images and quotes of other pilots used with thier written permission.
