@@ -5,6 +5,7 @@ Website is about promoting women in aviaton!
   UX.
 My website is designed for people curious about getting into aviation, specifically women, and im hopeful my website 
 will give them the motivation towards getting into the cockpit.
+After speaking to my mentor it was advised that i remove the carousel and have a grid system for my images to make them look more user friendly.
 User stories- 
 
 Wireframes-
