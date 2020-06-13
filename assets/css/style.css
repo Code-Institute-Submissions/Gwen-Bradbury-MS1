@@ -345,3 +345,272 @@ a:hover {
         <span class="sr-only">Next</span>
       </a>
     </div>
+
+
+    <section class="container-fluid">
+      <div class="row">
+        <div class="col">
+          <h2>
+            GALLERY <i class="fas fa-plane" id="ac"></i
+            ><span class="sr-only">orange aeroplane</span>
+          </h2>
+        </div>
+      </div>
+      <div class="row ml-3 mt-4 mr-3">
+        <div class="col-4">
+          <img
+            src="./assets/images/image35.jpeg"
+            class="gallery-image"
+            height="70%"
+            width="100%"
+            alt="Beach"
+          />
+        </div>
+        <div class="col-4">
+          <img
+            src="./assets/images/image31.jpeg"
+            class="gallery-image"
+            height="70%"
+            width="100%"
+            alt="River"
+          />
+        </div>
+        <div class="col-4">
+          <img
+            src="./assets/images/image33.jpeg"
+            class="gallery-image"
+            height="70%"
+            width="100%"
+            alt="Beach"
+          />
+        </div>
+      </div>
+      <div class="row ml-3 mr-3">
+        <div class="col-4">
+          <img
+            src="./assets/images/girls1.jpg"
+            class="gallery-image"
+            height="70%"
+            width="100%"
+            alt="Two female pilots"
+          />
+        </div>
+        <div class="col-4">
+          <img
+            src="./assets/images/image39.jpeg"
+            class="gallery-image"
+            height="70%"
+            width="100%"
+            alt="Flying through clouds"
+          />
+        </div>
+        <div class="col-4">
+          <img
+            src="./assets/images/image45.jpeg"
+            class="gallery-image"
+            height="70%"
+            width="100%"
+            alt="Runway"
+          />
+        </div>
+      </div>
+      <div class="row"> 
+             <div class="col-12">
+             <button class="btn btn-warning float-right more-button"><a href="gallery.html">More Images</a></button>
+          </div>
+          </div>
+    </section>
+
+
+    <div class="row">
+       
+       <div class="col-md-3 col-sm-6">
+          <div class="product-grid2">
+             <div class="product-image2">
+                      <img class="pic-1" src="./assets/images/image35.jpeg" alt="Beach">
+                      <ul class="social">
+                      <li><a href="#" target="_blank" data-tip="View in new tab"><i class="fa fa-eye"></i></a></li>
+                      </ul>
+                      <a class="add-to-cart" href="">Add to cart</a>
+                      <div class="product-content">
+                    <h2 class="title">Skegness Beach</h2>
+                    <span>Flight over the East Coast.</span>
+                      </div>
+             </div>
+          </div>
+       </div>   
+
+        <div class="col-md-3 col-sm-6">
+          <div class="product-grid2">
+             <div class="product-image2">
+                      <img class="pic-1" src="./assets/images/image39.jpeg" alt="Flying through clouds">
+                      <ul class="social">
+                      <li><a href="#" target="_blank" data-tip="View in new tab"><i class="fa fa-eye"></i></a></li>
+                      </ul>
+                      <a class="add-to-cart" href="">Add to cart</a>
+                      <div class="product-content">
+                    <h2 class="title">Above the Clouds</h2>
+                    <span>Quick nip through a gap in the cloud base.</span>
+                      </div>
+             </div>
+          </div>
+       </div>   
+
+       <div class="col-md-3 col-sm-6">
+          <div class="product-grid2">
+             <div class="product-image2">
+                      <img class="pic-1" src="./assets/images/image45.jpeg" alt="Runway">
+                      <ul class="social">
+                      <li><a href="#" target="_blank" data-tip="View in new tab"><i class="fa fa-eye"></i></a></li>
+                      </ul>
+                      <a class="add-to-cart" href="">Add to cart</a>
+                      <div class="product-content">
+                    <h2 class="title">Landing</h2>
+                    <span>Approach to land on final.</span>
+                      </div>
+             </div>
+          </div>
+       </div>  
+
+       <div class="col-md-3 col-sm-6">
+          <div class="product-grid2">
+             <div class="product-image2">
+                      <img class="pic-1" src="./assets/images/thumbnail_image36.jpg" alt="Flying through clouds">
+                      <ul class="social">
+                      <li><a href="#" target="_blank" data-tip="View in new tab"><i class="fa fa-eye"></i></a></li>
+                      </ul>
+                      <a class="add-to-cart" href="">Add to cart</a>
+                      <div class="product-content">
+                    <h2 class="title">Cloud Layers</h2>
+                    <span>Flying between cloud layers.</span>
+                      </div>
+             </div>
+          </div>
+       </div>    
+
+       <div class="col-md-3 col-sm-6">
+          <div class="product-grid2">
+             <div class="product-image2">
+                      <img class="pic-1" src="./assets/images/girls1.jpg"  alt="Two female pilots">
+                      <ul class="social">
+                      <li><a href="#" target="_blank" data-tip="View in new tab"><i class="fa fa-eye"></i></a></li>
+                      </ul>
+                      <a class="add-to-cart" href="">Add to cart</a>
+                      <div class="product-content">
+                    <h2 class="title">Female Pilots</h2>
+                    <span>Two female pilots before a flight.</span>
+                      </div>
+             </div>
+          </div>
+       </div>    
+
+       <div class="col-md-3 col-sm-6">
+          <div class="product-grid2">
+             <div class="product-image2">
+                      <img class="pic-1" src="./assets/images/image48.jpeg"  alt="Red Arrows">
+                      <ul class="social">
+                      <li><a href="#" target="_blank" data-tip="View in new tab"><i class="fa fa-eye"></i></a></li>
+                      </ul>
+                      <a class="add-to-cart" href="">Add to cart</a>
+                      <div class="product-content">
+                    <h2 class="title">Red Arrows</h2>
+                    <span>Seeing the Red Arrows whilst flying.</span>
+                      </div>
+             </div>
+          </div>
+       </div>    
+
+       <div class="col-md-3 col-sm-6">
+          <div class="product-grid2">
+             <div class="product-image2">
+                      <img class="pic-1" src="./assets/images/image31.jpeg" alt="River">
+                      <ul class="social">
+                      <li><a href="#" target="_blank" data-tip="View in new tab"><i class="fa fa-eye"></i></a></li>
+                      </ul>
+                      <a class="add-to-cart" href="">Add to cart</a>
+                      <div class="product-content">
+                    <h2 class="title">River Trent</h2>
+                    <span>The river Trent as it passes close to the runway.</span>
+                      </div>
+             </div>
+          </div>
+       </div>    
+
+       <div class="col-md-3 col-sm-6">
+          <div class="product-grid2">
+             <div class="product-image2">
+                      <img class="pic-1" src="./assets/images/image33.jpeg" alt="Beach">
+                      <ul class="social">
+                      <li><a href="#" target="_blank" data-tip="View in new tab"><i class="fa fa-eye"></i></a></li>
+                      </ul>
+                      <a class="add-to-cart" href="">Add to cart</a>
+                      <div class="product-content">
+                    <h2 class="title">Skegness Beach</h2>
+                    <span>Return flight from Skegness.</span>
+                      </div>
+             </div>
+          </div>
+       </div>    
+
+       <div class="col-md-3 col-sm-6">
+          <div class="product-grid2">
+             <div class="product-image2">
+                      <img class="pic-1" src="./assets/images/image46.jpeg" alt="Aeroplane flying">
+                      <ul class="social">
+                      <li><a href="#" target="_blank" data-tip="View in new tab"><i class="fa fa-eye"></i></a></li>
+                      </ul>
+                      <a class="add-to-cart" href="">Add to cart</a>
+                      <div class="product-content">
+                    <h2 class="title">Flying</h2>
+                    <span>Cessna 152.</span>
+                      </div>
+             </div>
+          </div>
+       </div>    
+
+       <div class="col-md-3 col-sm-6">
+          <div class="product-grid2">
+             <div class="product-image2">
+                      <img class="pic-1" src="./assets/images/thumbnail_image18.jpg" alt="Night flying">
+                      <ul class="social">
+                      <li><a href="#" target="_blank" data-tip="View in new tab"><i class="fa fa-eye"></i></a></li>
+                      </ul>
+                      <a class="add-to-cart" href="">Add to cart</a>
+                      <div class="product-content">
+                    <h2 class="title">Night Flying</h2>
+                    <span>Lincoln by night.</span>
+                      </div>
+             </div>
+          </div>
+       </div>    
+
+    </div>
+
+    .product-grid2 .product-image2{overflow:hidden;position:relative}
+.product-grid2 .product-image2 a{display:block}
+.product-grid2 .product-image2 img{width:100%;height:70%}
+.product-image2 .pic-1{opacity:1;transition:all .5s}
+
+.product-grid2 .social{padding:0;margin:0;position:absolute;top:50px;right:25px;z-index:1}
+
+.product-grid2 .social li{margin:0 0 10px;display:block;transform:translateX(100px);transition:all .5s}
+.product-grid2:hover .social li{transform:translateX(0)}
+.product-grid2:hover .social li:nth-child(2){transition-delay:.15s}
+.product-grid2:hover .social li:nth-child(3){transition-delay:.25s}
+.product-grid2 .social li a{color:#505050;background-color:#fff;font-size:17px;line-height:45px;text-align:center;height:45px;width:45px;border-radius:50%;display:block;transition:all .3s ease 0s}
+.product-grid2 .social li a:hover{color:#fff;background-color:#3498db;box-shadow:0 0 10px rgba(0,0,0,.5)}
+.product-grid2 .social li a:after,.product-grid2 .social li a:before{content:attr(data-tip);color:#fff;background-color:#000;font-size:12px;line-height:22px;border-radius:3px;padding:0 5px;white-space:nowrap;opacity:0;transform:translateX(-50%);position:absolute;left:50%;top:-30px}
+.product-grid2 .social li a:after{content:'';height:15px;width:15px;border-radius:0;transform:translateX(-50%) rotate(45deg);top:-22px;z-index:-1}
+.product-grid2 .social li a:hover:after,.product-grid2 .social li a:hover:before{opacity:1}
+.product-grid2 .add-to-cart{color:#fff;background-color:#404040;font-size:15px;text-align:center;width:100%;padding:10px 0;display:block;position:absolute;left:0;bottom:-100%;transition:all .3s}
+.product-grid2 .add-to-cart:hover{background-color:#3498db;text-decoration:none}
+.product-grid2:hover .add-to-cart{bottom:0}
+.product-grid2 .product-new-label{background-color:#3498db;color:#fff;font-size:17px;padding:5px 10px;position:absolute;right:0;top:0;transition:all .3s}
+.product-grid2:hover .product-new-label{opacity:0}
+.product-grid2 .product-content{padding:20px 10px;text-align:center}
+.product-grid2 .title{font-size:17px;margin:0 0 7px}
+.product-grid2 .title a{color:#303030}
+.product-grid2 .title a:hover{color:#3498db}
+.product-grid2 .price{color:#303030;font-size:15px}
+@media screen and (max-width:990px){.product-grid2{margin-bottom:30px}
+
