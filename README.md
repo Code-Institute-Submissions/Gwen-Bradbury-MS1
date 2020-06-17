@@ -6,8 +6,8 @@ Website is about promoting women in aviaton!
 My website is designed for people curious about getting into aviation, specifically women, and im hopeful my website 
 will give them the motivation towards getting into the cockpit.
 I wanted the website to be clean and professional.
-After speaking to my mentor it was advised that I remove the carousel and have a grid system for my images to make them 
-look more user friendly.
+After speaking to my mentor it was advised that I remove the carousel and have a grid system for my images to make them
+more user friendly.
 User stories- 
 
 Wireframes-
@@ -56,6 +56,7 @@ Acknowledgements- Adegbenga helped with -navbar (added 'search)
                                         -did you know images and text (lining them up)
                                         -border around images
 I recieved inspiration for this project from...
+My experience in training for my pilots licence!
 
 
 
