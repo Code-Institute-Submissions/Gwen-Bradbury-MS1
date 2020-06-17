@@ -25,7 +25,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
       <a href="/" class="navbar-brand"
         >HERE COME THE GIRLS... <i class="fas fa-plane"></i
-        ><span class="sr-only">orange aeroplane</span></a
+        ></a
       >
       <button
         class="navbar-toggler"
@@ -83,13 +83,13 @@
         <div class="col mb-4">
           <div class="card meet-us">
             <img
-              src="./assets/images/girls13 - Edited.jpg"
+              src="./assets/images/meflying.jpg"
               alt="Female Pilot"
               class="card-img-top"
               style="height: 300px; width: 80%;"
             />
             <div class="container">
-              <p class="title pt-2">Gwen</p>
+              <h6 class="title pt-2">Gwen</h6>
               <p style="max-height: 90px; height: 90px; overflow: auto;">
                 Learning to fly has been an incredible experience! And one I'll
                 never forget! I love flying. I love the freedom it brings, the
@@ -106,13 +106,13 @@
         <div class="col mb-4">
           <div class="card meet-us">
             <img
-              src="./assets/images/dawn - Edited.jpg"
+              src="./assets/images/dawnflying.jpg"
               alt="Female Pilot"
               class="card-img-top"
               style="height: 300px; width: 80%;"
             />
             <div class="container">
-              <p class="title pt-2">Dawn</p>
+              <h6 class="title pt-2">Dawn</h6>
               <p style="max-height: 90px; height: 90px; overflow: auto;">
                 I fly because ive always wanted to. From being a small child.
                 It's not the destination, it's the journey. It's the act of
@@ -134,7 +134,7 @@
               style="height: 300px; width: 80%;"
             />
             <div class="container">
-              <p class="title pt-2">Debs</p>
+              <h6 class="title pt-2">Debs</h6>
               <p style="max-height: 90px; height: 90px; overflow: auto;">
                 I like a challenge and being a pilot is certainly that! The
                 rewards are huge and go much further than the amazing views from
@@ -148,13 +148,13 @@
         <div class="col mb-4">
           <div class="card meet-us">
             <img
-              src="./assets/images/michelle - Edited (1).jpg"
+              src="./assets/images/michelleflying.jpg"
               alt="Female Pilot"
               class="card-img-top"
               style="height: 300px; width: 80%;"
             />
             <div class="container">
-              <p class="title pt-2">Michelle</p>
+              <h6 class="title pt-2">Michelle</h6>
               <p style="max-height: 90px; height: 90px; overflow: auto;">
                 Whilst visiting Australia I booked a flight over the great
                 barrier reef. My jaw dropped-not because the reef was beautiful,
@@ -171,8 +171,8 @@
     <!--Gallery start-->
     <!--Footer start-->
     <footer>
-      <div>
-        <ul class="list-inline social-links">
+      <div class="social-links">
+        <ul class="list-inline">
           <li class="list-inline-item">
             <a target="_blank" href="https://www.facebook.com/">
               <i class="fab fa-facebook" aria-hidden="true"></i>
@@ -197,9 +197,8 @@
               <span class="sr-only">Instagram</span>
             </a>
           </li>
-          <i class="fas fa-plane"></i
-          ><span class="sr-only">Orange aeroplane</span>
         </ul>
+        <i class="fas fa-plane"></i>
       </div>
     </footer>
     <!--Footer end-->
@@ -209,6 +208,7 @@
       <div class="modal-dialog" role="document">
         <div class="modal-content">
           <div class="modal-header">
+          <h5 class="modal-title">Find Out More!</h5>
             <button
               type="button"
               class="close"
@@ -219,10 +219,12 @@
             </button>
           </div>
           <div class="modal-body">
-          <h5 class="modal-title"> Find Out More!</h5>
             <form>
-              <div>
+            <div class="row">
+               <div class="col-6">
                 <label for="fullname">Full Name:</label>
+                </div>
+                <div class="col-6">
                 <input
                   type="text"
                   id="fullname"
@@ -230,15 +232,19 @@
                   required
                 />
               </div>
-              <div>
+              </div>
+              <div class="row">
+               <div class="col-6">
                 <label for="email">Email:</label>
+                </div>
+                <div class="col-6">
                 <input
                   type="email"
                   id="email"
-                  aria-describedby="emailHelp"
                   placeholder="Email Address"
                   required
                 />
+                </div>
               </div>
               <p class="small">We'll never share your personal information!</p>
             </form>
@@ -251,7 +257,11 @@
             >
               Close
             </button>
-            <button type="button" class="btn btn-warning" data-dismiss="modal">
+            <button
+              type="button"
+              class="btn btn-outline-warning"
+              data-dismiss="modal"
+            >
               Submit
             </button>
           </div>

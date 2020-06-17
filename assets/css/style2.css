@@ -31,7 +31,7 @@ h1,
 
 /* Modal */
 .modal {
-    text-align: left;
+    text-align: center;
 }
 
 .modal-header,
@@ -45,11 +45,6 @@ h1,
     font-weight: 300;
     border-top: 2px solid #ff8c00;
     border-bottom: 2px solid #ff8c00;
-}
-
-.modal-title {
-    text-align: center;
-    padding-bottom: 10px;
 }
 
 .small {
