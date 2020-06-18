@@ -17,7 +17,6 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
 ## Women In Aviation.
 
 ![Apple Devices picture](./assets/images/IMG_1754.jpg)
@@ -171,6 +170,7 @@ border around the gallery section (index.html), and gallery.html. https://w3scho
   * headline image
   * did you know images and text
   * border around images
+  
   And gave many other pieces of advice and motivation to get me through.
 
 2. Code Institute's Slack Channels and the many alunni, mentors, tutors and users who contribute to them; the many pinned announcements, pdf files, etc. were of great help, as was the advice and motivation
