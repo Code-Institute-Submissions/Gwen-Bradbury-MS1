@@ -17,6 +17,7 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+## Women In Aviation.
 
 ![Apple Devices picture](./assets/images/IMG_1754.jpg)
 
@@ -41,7 +42,7 @@ will give them the motivation towards getting into the cockpit.
 After speaking to my mentor it was advised that I remove the carousel and have a grid system for my images to make them
 more user friendly.
 
-#### Colour Palette
+#### Colour Palette-
 
 https://coolors.co/292122-fe6d04-fdffff
 
@@ -133,7 +134,7 @@ To continue with cloning, you would;
 
 ## Credits.
 
-### Content
+### Content-
 
 1. bootstrap modal taken directly from bootstraps components. https://getbootstrap.com/ 
 
@@ -149,7 +150,7 @@ border around the gallery section (index.html), and gallery.html. https://w3scho
 
 5. Colour scheme https://coolors.co/292122-fe6d04-fdffff
 
-### Media
+### Media-
 
 1. Am I Responsive web site for checking responsiveness on all Apple devices screen sizes;
    http://ami.responsivedesign.is/
@@ -162,7 +163,7 @@ border around the gallery section (index.html), and gallery.html. https://w3scho
 
 5. Contents table in README.md from http://ecotrust-canada.github.io/markdown-toc/
 
-### Acknowledgements
+### Acknowledgements-
 
 1. My fantastic mentor Adegbenga helped with 
   * navbar
