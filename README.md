@@ -1,9 +1,27 @@
 # Women In Aviation.
 
+- [Women In Aviation.](#women-in-aviation)
+  * [UX.](#ux)
+      - [Wireframes-](#wireframes-)
+      - [Colour Palette](#colour-palette)
+      - [User stories-](#user-stories-)
+  * [Features.](#features)
+    + [Existing Features-](#existing-features-)
+  * [Technologies used.](#technologies-used)
+  * [Testing.](#testing)
+  * [Deployment.](#deployment)
+  * [Credits.](#credits)
+    + [Content](#content)
+    + [Media](#media)
+    + [Acknowledgements](#acknowledgements)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ![Apple Devices picture](./assets/images/IMG_1754.jpg)
 
 This is my first milestone project; Designed to exhibit my capabilities and skills in html and css, as a student 
-of Code Institue (https://codeinstitute.net/).
+of Code Institute. (https://codeinstitute.net/)
 The goal was to showcase my skills to potential employers/recruiters, on a topic that I'm deeply interested in.
 My project is about inspiring more women to get into the world of aviation and become pilots.
 
@@ -23,11 +41,15 @@ will give them the motivation towards getting into the cockpit.
 After speaking to my mentor it was advised that I remove the carousel and have a grid system for my images to make them
 more user friendly.
 
+#### Colour Palette
+
+https://coolors.co/292122-fe6d04-fdffff
+
 #### User stories- 
 
    * As a potential female pilot, I want to quickly and easily find all relevant information on women in aviation.
 
-   * As an employer/recruiter, I need to see and review the skills and work capabilities, and analise if you have the skills we require.
+   * As an employer/recruiter, I need to see and review the skills and work capabilities, and analyze if you have the skills we require.
 
    * On our Human Resources team, we look for the information that pertains to the specific needs of the company, and does this individual have those skill sets.
 
@@ -42,7 +64,7 @@ more user friendly.
 * __Gallery__ - In flight images taken on various flights to hopefully give the viewer a closer look into the life of a pilot.
 
 * __Find out more__ - A model and form that allows potential pilots to request more information by 
-leaving thier name and email address.
+leaving their name and email address.
 
 ## Technologies used.
 
@@ -87,7 +109,7 @@ leaving thier name and email address.
 
 5.  **Open Issues:** Required field for full name and email in modal doesn't work. Needs Java Script but thats out of my 
      skillset at the moment. Also my images are a little streched in some viewports, but as the images were taken inflight I can't 
-     change that unfortunatly.
+     change that unfortunately.
 
 ## Deployment.
 
@@ -100,12 +122,12 @@ leaving thier name and email address.
    Your site is published at https://gwen-bradbury.github.io/MS1/
 
 4.  To run this code on your local machine, you would go to my respository at 
-https://github.com/BobHerold/RobertHeroldportfolio   and on the home page on the right hand side just above all the files, you will see a green button that says,
+https://github.com/Gwen-Bradbury/MS1  and on the home page on the right hand side just above all the files, you will see a green button that says,
 "Clone or download", this button will give you options to clone with HTTPS, open in desktop or download as a zip file.
 To continue with cloning, you would;
   * Open Git Bash
   * Change the current working directory to the location where you want the cloned directory to be made.
-  * Type git clone, and then paste this URL; https://github.com/BobHerold/RobertHeroldportfolio.git      Press Enter. Your local clone will be created.
+  * Type git clone, and then paste this URL; https://github.com/Gwen-Bradbury/MS1.git      Press Enter. Your local clone will be created.
 
   For more information about the above process; https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 
@@ -116,13 +138,16 @@ To continue with cloning, you would;
 1. bootstrap modal taken directly from bootstraps components. https://getbootstrap.com/ 
 
 2. W3C Schools; Used for the cards in Meet the aviatrices section (index.html) and meet-the-aviatrices.html, and for the
-bored around the gallery section (index.html), and gallery.html. https://w3schools.com
+border around the gallery section (index.html), and gallery.html. https://w3schools.com
 
 3. Google Fonts for font styles; https://fonts.google.com/
 
-4. All statistical information taken from- International society of women pilots. https://www.iswap.org/
-                                           WASP's https://www.npr.org/
-                                           99's https://www.ninety-nines.org/
+4. All statistical information taken from- 
+  * International society of women pilots. https://www.iswap.org/
+  * WASP's. https://www.npr.org/
+  * 99's. https://www.ninety-nines.org/
+
+5. Colour scheme https://coolors.co/292122-fe6d04-fdffff
 
 ### Media
 
@@ -135,18 +160,22 @@ bored around the gallery section (index.html), and gallery.html. https://w3schoo
 
 4. Code Institues tutorial videos (https://codeinstitute.net/)
 
+5. Contents table in README.md from http://ecotrust-canada.github.io/markdown-toc/
+
 ### Acknowledgements
 
-1. My fantastic mentor Adegbenga helped with -navbar
-                                          -headline image
-                                          -did you know images and text
-                                          -border around images
-                                          And gave many other pieces of advice and motivation to get me through.
+1. My fantastic mentor Adegbenga helped with 
+  * navbar
+  * headline image
+  * did you know images and text
+  * border around images
+  And gave many other pieces of advice and motivation to get me through.
 
 2. Code Institute's Slack Channels and the many alunni, mentors, tutors and users who contribute to them; the many pinned announcements, pdf files, etc. were of great help, as was the advice and motivation
 given by the many members. https://app.slack.com/client/T0L30B202/C0L316Z96
 
 3. The amazing Code Institute Tutors.
 
+4. My wonderful pilot friends for their Images and quotes.
 
 ​
