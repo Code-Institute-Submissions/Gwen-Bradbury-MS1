@@ -1,21 +1,22 @@
 # Women In Aviation.
 
 - [Women In Aviation.](#women-in-aviation)
-  * [UX.](#ux)
-      - [Wireframes-](#wireframes-)
-      - [Colour Palette](#colour-palette)
-      - [User stories-](#user-stories-)
-  * [Features.](#features)
-    + [Existing Features-](#existing-features-)
-  * [Technologies used.](#technologies-used)
-  * [Testing.](#testing)
-  * [Deployment.](#deployment)
-  * [Credits.](#credits)
-    + [Content](#content)
-    + [Media](#media)
-    + [Acknowledgements](#acknowledgements)
+- [UX.](#ux)
+    + [Wireframes-](#wireframes-)
+    + [Colour Palette-](#colour-palette-)
+    + [User stories-](#user-stories-)
+- [Features.](#features)
+  * [Existing Features-](#existing-features-)
+- [Technologies used.](#technologies-used)
+- [Testing.](#testing)
+- [Deployment.](#deployment)
+- [Credits.](#credits)
+  * [Content-](#content-)
+  * [Media-](#media-)
+  * [Acknowledgements-](#acknowledgements-)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Women In Aviation.
 
