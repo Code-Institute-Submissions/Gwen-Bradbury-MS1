@@ -25,9 +25,9 @@ more user friendly.
 
 #### User stories- 
 
-   * As a recruiter, I want to quickly and easily find all relevant information on the potential client.
+   * As a potential female pilot, I want to quickly and easily find all relevant information on women in aviation.
 
-   * As an employer, my need to find past working experience is important to me.
+   * As an employer/recruiter, I need to see and review the skills and work capabilities, and analise if you have the skills we require.
 
    * On our Human Resources team, we look for the information that pertains to the specific needs of the company, and does this individual have those skill sets.
 
@@ -37,11 +37,12 @@ more user friendly.
 
 * __Home__ - A picture and brief introduction to what my website is about.
 
-* __Meet the aviatrices__ -
+* __Meet the aviatrices__ - Pictures and quotes from female pilots discussing what they love about flying.
 
-* __Gallery__ -
+* __Gallery__ - In flight images taken on various flights to hopefully give the viewer a closer look into the life of a pilot.
 
-* __Find out more__ -
+* __Find out more__ - A model and form that allows potential pilots to request more information by 
+leaving thier name and email address.
 
 ## Technologies used.
 
@@ -86,7 +87,7 @@ more user friendly.
 
 5.  **Open Issues:** Required field for full name and email in modal doesn't work. Needs Java Script but thats out of my 
      skillset at the moment. Also my images are a little streched in some viewports, but as the images were taken inflight I can't 
-     change that.
+     change that unfortunatly.
 
 ## Deployment.
 
@@ -136,16 +137,16 @@ bored around the gallery section (index.html), and gallery.html. https://w3schoo
 
 ### Acknowledgements
 
-1. My fantastic mentor Adegbenga helped with -navbar (added 'search')
+1. My fantastic mentor Adegbenga helped with -navbar
                                           -headline image
-                                          -did you know images and text (lining them up)
+                                          -did you know images and text
                                           -border around images
                                           And gave many other pieces of advice and motivation to get me through.
 
-2. Code Institute's Slack Channels and the many alunni,mentors, tutors and users who contribute to them; the many pinned announcements, pdf files, etc. were of great help, as was the advice and motivation
+2. Code Institute's Slack Channels and the many alunni, mentors, tutors and users who contribute to them; the many pinned announcements, pdf files, etc. were of great help, as was the advice and motivation
 given by the many members. https://app.slack.com/client/T0L30B202/C0L316Z96
 
-3. Code Institute Tutors.
+3. The amazing Code Institute Tutors.
 
 
 ​
