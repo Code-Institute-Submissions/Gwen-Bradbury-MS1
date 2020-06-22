@@ -170,6 +170,7 @@ border around the gallery section (index.html), and gallery.html. https://w3scho
   * headline image
   * did you know images and text
   * border around images
+  * gallery
   
   And gave many other pieces of advice and motivation to get me through.
 
