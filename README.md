@@ -19,7 +19,7 @@
 
 ## Women In Aviation.
 
-![Apple Devices picture](./assets/images/IMG_1754.jpg)
+![Apple Devices picture](./wireframes/IMG_1754.jpg)
 
 This is my first milestone project; Designed to exhibit my capabilities and skills in html and css, as a student 
 of Code Institute. (https://codeinstitute.net/)
