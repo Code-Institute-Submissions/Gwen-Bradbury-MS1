@@ -76,23 +76,17 @@ leaving their name and email address.
 
 3. **Bootstrap:**  A CSS framework that assists the programmer in creating responsive, mobile first front-end web sites. https://getbootstrap.com/
 
-4. **Visual Studio Code:**  Is a programming code editor created by Microsoft that I used extensively. It allows programmers to create, save and edit their code on their own pc's.
- https://code.visualstudio.com/
-
-5. **SourceTree:**  A software application that runs on your computer that simplifies saving your programming code from your PC up to an oline respository like Github.  You do not have to use a command line interface when using this application.  For further info; 
-  https://www.sourcetreeapp.com/
-
-6. **Gitpod:**  An online IDE also used for creating & saving code that runs in a browser, it does not have to be installed on your PC.
+4. **Gitpod:**  An online IDE also used for creating & saving code that runs in a browser, it does not have to be installed on your PC.
  https://www.gitpod.io/
 
-7. **Git:**  A version control system for tracking changes in source code during software development. https://git-scm.com/
+5. **Git:**  A version control system for tracking changes in source code during software development. https://git-scm.com/
 
-8. **GitHub:** A company that provides hosting for software development version control using Git. It is a subsidiary of Microsoft. https://github.
+6. **GitHub:** A company that provides hosting for software development version control using Git. It is a subsidiary of Microsoft. https://github.
 
-9. **Chrome DevTools:**   A set of web developer tools built directly into the Google Chrome browser. I used these tools constantly thoughout the development cycle.
+7. **Chrome DevTools:**   A set of web developer tools built directly into the Google Chrome browser. I used these tools constantly thoughout the development cycle.
  https://developers.google.com/web/tools/chrome-devtools
 
-10. **W3C Markup Validation Service**  Used to run all html and css code thru a validation process looking for errors; https://validator.w3.org/
+8. **W3C Markup Validation Service**  Used to run all html and css code thru a validation process looking for errors; https://validator.w3.org/
  https://jigsaw.w3.org/css-validator/validator
 
 ## Testing.
