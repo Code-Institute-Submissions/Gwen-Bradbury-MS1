@@ -35,9 +35,9 @@ will give them the motivation towards getting into the cockpit.
 
 #### Wireframes-
 
-* ![Wireframe picture](./wireframes/MS1indexhtml.jpeg) index.html
-* ![Wireframe picture](./wireframes/MS1meet-the-aviatriceshtml.jpeg) meet.html
-* ![Wireframe picture](./wireframes/MS1galleryhtml.jpeg) gallery.html
+ ![Wireframe picture](./wireframes/MS1indexhtml.jpeg) 
+ ![Wireframe picture](./wireframes/MS1meet-the-aviatriceshtml.jpeg) 
+ ![Wireframe picture](./wireframes/MS1galleryhtml.jpeg) 
 
 After speaking to my mentor it was advised that I remove the carousel and have a grid system for my images to make them
 more user friendly.
