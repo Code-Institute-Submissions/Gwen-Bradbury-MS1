@@ -35,9 +35,9 @@ will give them the motivation towards getting into the cockpit.
 
 #### Wireframes-
 
-* https://app.lucidchart.com/invitations/accept/32030264-f089-49a7-b77c-93d029fd57ee index.html
-* https://app.lucidchart.com/invitations/accept/94559158-055f-49d5-be23-1af485e18abd meet.html
-* https://app.lucidchart.com/invitations/accept/ff4a9209-923c-44b4-a7d5-c6616efcf7f2 gallery.html
+* ![Wireframe picture](./wireframes/MS1indexhtml.jpeg) index.html
+* ![Wireframe picture](./wireframes/MS1meet-the-aviatriceshtml.jpeg) meet.html
+* ![Wireframe picture](./wireframes/MS1galleryhtml.jpeg) gallery.html
 
 After speaking to my mentor it was advised that I remove the carousel and have a grid system for my images to make them
 more user friendly.
@@ -149,6 +149,8 @@ border around the gallery section (index.html), and gallery.html. https://w3scho
   * 99's. https://www.ninety-nines.org/
 
 5. Colour scheme https://coolors.co/292122-fe6d04-fdffff
+
+6. Wireframes https://app.lucidchart.com/
 
 ### Media-
 
