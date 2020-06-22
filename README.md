@@ -39,8 +39,7 @@ will give them the motivation towards getting into the cockpit.
  ![Wireframe picture](./wireframes/MS1meet-the-aviatriceshtml.jpeg) 
  ![Wireframe picture](./wireframes/MS1galleryhtml.jpeg) 
 
-After speaking to my mentor it was advised that I remove the carousel and have a grid system for my images to make them
-more user friendly.
+After speaking to my mentor it was advised that I remove the carousel, in gallery.html, and have a grid system for my images, to make them more user friendly.
 
 #### Colour Palette-
 
