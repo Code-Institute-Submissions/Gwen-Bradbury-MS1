@@ -92,16 +92,12 @@ h2 {
 }
 
 /* Gallery*/
-.gallery-image-index {
-        border: 5px outset;
-        height: 32vh;
-        width: 400px;
-}
 
 .gallery-image {
     border: 5px outset;
     height: 200px;
     width: 250px;
+    margin-bottom: 10px;
 }
 
 .gallery-text {

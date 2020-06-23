@@ -102,9 +102,10 @@ leaving their name and email address.
       * Modal opens on every page. Submit, close and x button all close modal.
 
 5.  **Open Issues:** Required field for full name and email in modal doesn't work. Needs Java Script but thats out of my 
-     skillset at the moment. Also my images are a little streched in some viewports, but as the images were taken inflight I can't 
-     change that unfortunately.
-
+     skillset at the moment. My images are a little streched in some viewports, but as the images were taken inflight I can't 
+     change that unfortunately. In the gallery section of index.html theres a lot of white space between the images, that 
+     unfortunately can't be fixed as its an image problem. 
+     
 ## Deployment.
 
 1. Created a Github account at https://github.com
