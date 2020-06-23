@@ -103,8 +103,7 @@ leaving their name and email address.
 
 5.  **Open Issues:** Required field for full name and email in modal doesn't work. Needs Java Script but thats out of my 
      skillset at the moment. My images are a little streched in some viewports, but as the images were taken inflight I can't 
-     change that unfortunately. In the gallery section of index.html theres a lot of white space between the images, that 
-     unfortunately can't be fixed as its an image problem. 
+     change that unfortunately.
      
 ## Deployment.
 
@@ -161,14 +160,7 @@ border around the gallery section (index.html), and gallery.html. https://w3scho
 
 ### Acknowledgements-
 
-1. My fantastic mentor Adegbenga helped with 
-  * navbar
-  * headline image
-  * did you know images and text
-  * border around images
-  * gallery
-  
-  And gave many other pieces of advice and motivation to get me through.
+1. My mentor Adegbenga for his help and many other pieces of advice alongside motivation to get me through.`
 
 2. Code Institute's Slack Channels and the many alunni, mentors, tutors and users who contribute to them; the many pinned announcements, pdf files, etc. were of great help, as was the advice and motivation
 given by the many members. https://app.slack.com/client/T0L30B202/C0L316Z96
