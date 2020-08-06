@@ -101,6 +101,8 @@ https://coolors.co/292122-fe6d04-fdffff
      
       * Google Chrome browser; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.
 
+![Chrome browser picture](./wireframes/IMG_4134.jpg) 
+
 3.  **Iphone 11Pro**
 
       * Safari browser; all pages, links on those pages and footer icon links perform well.
