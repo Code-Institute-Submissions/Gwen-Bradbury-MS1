@@ -56,7 +56,8 @@ https://coolors.co/292122-fe6d04-fdffff
      Possible employers will be able to see from the website and the features implemented that my standard of work is very high, and my capabilities reflect my current skillset, which will improve as I gain more knowledge moving through 
      the Code Institute Full Stack Developer course.
 
-   * On our Human Resources team, we look for the information that pertains to the specific needs of the company, and does this individual have those skill sets.
+   * On our Human Resources team, we look for the information that pertains to the specific needs of the company, and does this individual have those skill sets. My skill sets are evidenced in the website produced. I've used a wide range of HTML and CSS to 
+     develop this site, as well as technologies such as bootstrap for responsiveness.
 
 ## Features.
 
@@ -115,6 +116,8 @@ https://coolors.co/292122-fe6d04-fdffff
      
       * Safari browser; all pages, links on those pages and footer icon links perform as they should.
 
+![Apple Devices picture](./wireframes/IMG_1754.jpg)      
+
 6. **Desktop**
 
       * Google Chrome browser; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.       
@@ -123,9 +126,7 @@ https://coolors.co/292122-fe6d04-fdffff
 
       * Modal opens on every page. Submit, close and x button all close modal.
 
-8.  **Open Issues:** Required field for full name and email in modal doesn't work. Needs Java Script but thats out of my 
-     skillset at the moment. My images are a little streched in some viewports, but as the images were taken inflight I can't 
-     change that unfortunately. Needs more female pilots in the Meet The Aviatrices page.
+8.  **Open Issues:** Needs more female pilots on the Meet The Aviatrices page.
      
 ## Deployment.
 
