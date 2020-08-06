@@ -47,9 +47,14 @@ https://coolors.co/292122-fe6d04-fdffff
 
 #### User stories- 
 
-   * As a potential female pilot, I want to quickly and easily find all relevant information on women in aviation.
+   * As a potential female pilot, I want to quickly and easily find all relevant information on women in aviation. A brief history on women in avitation can be found in the index.html home page, and for 
+     current female pilots, the Meet The Aviatrices page has a list of current pilots, including a picture and small discription on why they love flying. They can also add thier name and email into the Find Out More modal
+     and someone will email them back to answer any specific questions they might have.
 
-   * As an employer/recruiter, I need to see and review the skills and work capabilities, and analyze if you have the skills we require.
+   * As an employer/recruiter, I need to see and review the skills and work capabilities, and analyze if you have the skills we require. In this website I've used many user-friendly features to showcase my skills as a developer.
+     From the layout and colour scheme to the scroll bar on the Meet The Aviatrices quotes section, every implemented piece of code has been built to make the site as appealing and easy to use for customers as possible. 
+     Possible employers will be able to see from the website and the features implemented that my standard of work is very high, and my capabilities reflect my current skillset, which will improve as I gain more knowledge moving through 
+     the Code Institute Full Stack Developer course.
 
    * On our Human Resources team, we look for the information that pertains to the specific needs of the company, and does this individual have those skill sets.
 
@@ -57,14 +62,13 @@ https://coolors.co/292122-fe6d04-fdffff
 
 ### Existing Features-
 
-* __Home__ - A picture and brief introduction to what my website is about.
+* __Home__ - A picture and introduction to what my website is about. This page also includes a brief history on women in aviation and a sneak peak into the information on the following pages, set out in different sections.
 
-* __Meet the aviatrices__ - Pictures and quotes from female pilots discussing what they love about flying.
+* __Meet the aviatrices__ - Pictures and quotes from female pilots discussing what they love about flying. The quotes have a scroll bar to make the page look more tidy and are in a card layout with the image sitting above the pilots name and quote.
 
-* __Gallery__ - In flight images taken on various flights to hopefully give the viewer a closer look into the life of a pilot.
+* __Gallery__ - In flight images taken on various flights to hopefully give the viewer a closer look into the life of a pilot. The images are accompanied by a small decription outlining a few flight details.
 
-* __Find out more__ - A model and form that allows potential pilots to request more information by 
-leaving their name and email address.
+* __Find out more__ - A model and form that allows potential pilots to request more information by leaving their name and email address. This allows for more specific questions to be answered they may not relate to every individual.
 
 ## Technologies used.
 
@@ -95,13 +99,21 @@ leaving their name and email address.
 
 2.  **Laptop**
      
-       * Google Chrome browser; all pages, links on those pages, and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.
+      * Google Chrome browser; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.
 
-3.  **Modal**
+3.  **Iphone 11Pro**
+
+      * Safari browser; all pages, links on those pages and footer icon links perform well.
+
+4.  **Desktop**
+
+      * 
+
+5.  **Modal**
 
       * Modal opens on every page. Submit, close and x button all close modal.
 
-5.  **Open Issues:** Required field for full name and email in modal doesn't work. Needs Java Script but thats out of my 
+6.  **Open Issues:** Required field for full name and email in modal doesn't work. Needs Java Script but thats out of my 
      skillset at the moment. My images are a little streched in some viewports, but as the images were taken inflight I can't 
      change that unfortunately.
      
