@@ -105,17 +105,25 @@ https://coolors.co/292122-fe6d04-fdffff
 
       * Safari browser; all pages, links on those pages and footer icon links perform well.
 
-4.  **Desktop**
+4.  **Ipad Pro**
 
-      * 
+      * Safari browser; all pages, links on those pages and footer icon links perform as they should.
 
-5.  **Modal**
+5. **Iphone 7**
+     
+      * Safari browser; all pages, links on those pages and footer icon links perform as they should.
+
+6. **Desktop**
+
+      * Google Chrome browser; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.       
+
+7.  **Modal**
 
       * Modal opens on every page. Submit, close and x button all close modal.
 
-6.  **Open Issues:** Required field for full name and email in modal doesn't work. Needs Java Script but thats out of my 
+8.  **Open Issues:** Required field for full name and email in modal doesn't work. Needs Java Script but thats out of my 
      skillset at the moment. My images are a little streched in some viewports, but as the images were taken inflight I can't 
-     change that unfortunately.
+     change that unfortunately. Needs more female pilots in the Meet The Aviatrices page.
      
 ## Deployment.
 
