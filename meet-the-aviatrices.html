@@ -202,11 +202,11 @@
     <!--Footer end-->
     <!--Modal start-->
     <!--Taken from Bootstrap Modals https://getbootstrap.com/ -->
-    <div class="modal" tabindex="-1" role="dialog" id="findoutmoreModal">
-      <div class="modal-dialog" role="document">
+   <div class="modal" id="findoutmoreModal" tabindex="-1">
+      <div class="modal-dialog">
         <div class="modal-content">
           <div class="modal-header">
-            <h5 class="modal-title">Find out more!</h5>
+            <h5 class="modal-title">Find Out More!</h5>
             <button
               type="button"
               class="close"
@@ -217,36 +217,27 @@
             </button>
           </div>
           <div class="modal-body">
-            <form>
-              <div class="row justify-content-center">
-                <div class="col-4">
-                  <label for="fullname">Full Name:</label>
-                </div>
-                <div class="col-4">
-                  <input
-                    type="text"
-                    id="fullname"
-                    placeholder="Full Name"
-                    required class="form-control"
-                  />
-                </div>
-              </div>
-              <div class="row justify-content-center">
-                <div class="col-4">
-                  <label for="email">Email:</label>
-                </div>
-                <div class="col-4">
-                  <input
-                    type="email"
-                    id="email"
-                    placeholder="Email Address"
-                    required class="form-control"
-                  />
-                </div>
-              </div>
-              <p class="small">We'll never share your personal information!</p>
-            </form>
-          </div>
+           <form>
+  <div class="form-row">
+    <div class="col-12">
+      <label for="validationDefault01">First name</label>
+      <input type="text" class="form-control" id="validationDefault01" required>
+    </div>
+</div>
+    <div class="form-row">
+    <div class="col-12">
+      <label for="validationDefault02">Last name</label>
+      <input type="text" class="form-control" id="validationDefault02" required>
+  </div>
+  </div>
+  <div class="form-row">
+    <div class="col-12">
+      <label for="validationDefault03">Email</label>
+      <input type="email" class="form-control" id="validationDefault03" required>
+    </div>
+  </div>
+  
+
           <div class="modal-footer">
             <button
               type="button"
@@ -256,16 +247,17 @@
               Close
             </button>
             <button
-              type="button"
+              type="submit"
+              value="Submit"
               class="btn btn-outline-warning"
-              data-dismiss="modal"
             >
               Submit
             </button>
+            
           </div>
+          </form>
         </div>
       </div>
-    </div>
     <!--Modal end-->
     <script
       src="https://code.jquery.com/jquery-3.4.1.slim.min.js"

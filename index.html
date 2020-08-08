@@ -277,7 +277,7 @@
               alt="Beach"
             />
             <h4>Skegness Beach</h4>
-          <p class="gallery-text">Flight over the East Coast.</p>
+            <p class="gallery-text">Flight over the East Coast.</p>
           </div>
 
           <div class="col-md-4 col-sm-12 d-none d-sm-block">
@@ -287,7 +287,9 @@
               alt="Flying above the clouds"
             />
             <h4>Above the Clouds</h4>
-          <p class="gallery-text">Quick nip through a gap in the cloud base.</p>
+            <p class="gallery-text">
+              Quick nip through a gap in the cloud base.
+            </p>
           </div>
 
           <div class="col-md-4 col-sm-12 d-none d-sm-block">
@@ -297,7 +299,7 @@
               alt="Runway"
             />
             <h4>Landing</h4>
-          <p class="gallery-text">Approach to land on final.</p>
+            <p class="gallery-text">Approach to land on final.</p>
           </div>
 
           <div class="col-md-4 col-sm-12">
@@ -307,7 +309,7 @@
               alt="Flying between cloud layers"
             />
             <h4>Cloud Layers</h4>
-          <p class="gallery-text">Flying between cloud layers.</p>
+            <p class="gallery-text">Flying between cloud layers.</p>
           </div>
 
           <div class="col-md-4 col-sm-12">
@@ -316,8 +318,8 @@
               src="./assets/images/girls1.jpg"
               alt="Two female pilots"
             />
-             <h4>Female Pilots</h4>
-          <p class="gallery-text">Two female pilots before a flight.</p>
+            <h4>Female Pilots</h4>
+            <p class="gallery-text">Two female pilots before a flight.</p>
           </div>
 
           <div class="col-md-4 col-sm-12">
@@ -327,7 +329,7 @@
               alt="Red Arrows"
             />
             <h4>Red Arrows</h4>
-          <p class="gallery-text">Seeing the Red Arrows whilst flying.</p>
+            <p class="gallery-text">Seeing the Red Arrows whilst flying.</p>
           </div>
         </div>
       </div>
@@ -378,11 +380,11 @@
     <!--Footer end-->
     <!--Modal start-->
     <!--Taken from Bootstrap Modals https://getbootstrap.com/ -->
-    <div class="modal" tabindex="-1" role="dialog" id="findoutmoreModal">
-      <div class="modal-dialog" role="document">
+   <div class="modal" id="findoutmoreModal" tabindex="-1">
+      <div class="modal-dialog">
         <div class="modal-content">
           <div class="modal-header">
-            <h5 class="modal-title">Find out more!</h5>
+            <h5 class="modal-title">Find Out More!</h5>
             <button
               type="button"
               class="close"
@@ -393,36 +395,27 @@
             </button>
           </div>
           <div class="modal-body">
-            <form>
-              <div class="row justify-content-center">
-                <div class="col-4">
-                  <label for="fullname">Full Name:</label>
-                </div>
-                <div class="col-4">
-                  <input
-                    type="text"
-                    id="fullname"
-                    placeholder="Full Name"
-                    required class="form-control"
-                  />
-                </div>
-              </div>
-              <div class="row justify-content-center">
-                <div class="col-4">
-                  <label for="email">Email:</label>
-                </div>
-                <div class="col-4">
-                  <input
-                    type="email"
-                    id="email"
-                    placeholder="Email Address"
-                    required class="form-control"
-                  />
-                </div>
-              </div>
-              <p class="small">We'll never share your personal information!</p>
-            </form>
-          </div>
+           <form>
+  <div class="form-row">
+    <div class="col-12">
+      <label for="validationDefault01">First name</label>
+      <input type="text" class="form-control" id="validationDefault01" required>
+    </div>
+</div>
+    <div class="form-row">
+    <div class="col-12">
+      <label for="validationDefault02">Last name</label>
+      <input type="text" class="form-control" id="validationDefault02" required>
+  </div>
+  </div>
+  <div class="form-row">
+    <div class="col-12">
+      <label for="validationDefault03">Email</label>
+      <input type="email" class="form-control" id="validationDefault03" required>
+    </div>
+  </div>
+  
+
           <div class="modal-footer">
             <button
               type="button"
@@ -432,17 +425,19 @@
               Close
             </button>
             <button
-              type="button"
+              type="submit"
+              value="Submit"
               class="btn btn-outline-warning"
-              data-dismiss="modal"
             >
               Submit
             </button>
+            
           </div>
+          </form>
         </div>
       </div>
-    </div>
     <!--Modal end-->
+  
     <script
       src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
       integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"

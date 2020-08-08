@@ -172,6 +172,8 @@ border around the gallery section (index.html), and gallery.html. https://w3scho
 
 6. Wireframes https://app.lucidchart.com/
 
+7. Form in modal taken from bootstraps components. https://getbootstrap.com/ 
+
 ### Media-
 
 1. Am I Responsive web site for checking responsiveness on all Apple devices screen sizes;

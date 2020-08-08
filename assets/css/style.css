@@ -31,7 +31,6 @@ h1,
 }
 
 /* Modal */
-
 .modal-header,
 .modal-footer {
     background-color: #04010eda;
@@ -43,11 +42,6 @@ h1,
     font-weight: 300;
     border-top: 2px solid #ff8c00;
     border-bottom: 2px solid #ff8c00;
-}
-
-.small {
-    text-align: center;
-    padding-top: 10px;
 }
 
 /* Headings */
@@ -106,3 +100,64 @@ h2 {
     border-bottom: 2px solid #ff8c00;
     padding-bottom: 10px;
 }
+
+<div class="modal" id="findoutmoreModal" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Find Out More!</h5>
+            <button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <form>
+              <div class="form-group">
+                <label for="full-name">Full Name</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="full-name"
+                  aria-describedby="Full Name"
+                  required
+                />
+              </div>
+              <div class="form-group">
+                <label for="input-email">Email</label>
+                <input
+                  type="email"
+                  class="form-control"
+                  id="input-email"
+                  required
+                />
+                <small id="emailHelp" class="form-text text-muted"
+                  >We'll never share your email with anyone else.</small
+                >
+              </div>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-dismiss="modal"
+            >
+              Close
+            </button>
+            <button
+              type="submit"
+              value="submit"
+              class="btn btn-outline-warning"
+            >
+              Submit
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Modal end-->
