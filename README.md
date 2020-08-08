@@ -108,7 +108,7 @@ https://coolors.co/292122-fe6d04-fdffff
 
 ![Chrome browser picture](./wireframes/IMG_4134.jpg) 
 
-3.  **Iphone 11Pro**
+3.  **Mobile**
 
       * Safari browser; all pages, links on those pages and footer icon links perform well.
 
@@ -116,23 +116,21 @@ https://coolors.co/292122-fe6d04-fdffff
 
       * Safari browser; all pages, links on those pages and footer icon links perform as they should.
 
-5. **Iphone 7**
-     
-      * Safari browser; all pages, links on those pages and footer icon links perform as they should.
-
 ![Apple Devices picture](./wireframes/IMG_2382.jpg)      
 
-6. **Desktop**
+5. **Desktop**
 
       * Google Chrome browser; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.
       * Internet Edge; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.
       * Mozilla Firefox; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.        
 
-7.  **Modal**
+6.  **Modal**
 
       * Modal opens on every page. Submit, close and x button all close modal.
+      * Try to submit the form without a correct syntax e-mail address and you will get an error message requesting a proper e-mail address be entered.
+      * Trying to submit the form with any empty fields will also give you a "Please fill out this field" message.
 
-8.  **Open Issues:** Needs more female pilots on the Meet The Aviatrices page.
+7.  **Open Issues:** Needs more female pilots on the Meet The Aviatrices page.
      
 ## Deployment.
 
