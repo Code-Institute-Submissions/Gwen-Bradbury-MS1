@@ -71,6 +71,10 @@ https://coolors.co/292122-fe6d04-fdffff
 
 * __Find out more__ - A model and form that allows potential pilots to request more information by leaving their name and email address. This allows for more specific questions to be answered they may not relate to every individual.
 
+* __Page Links__ - The links in the header will take you to the page specified.
+
+* __More Buttons__ - These buttons are another way to manouver to the other pages within the site.
+
 ## Technologies used.
 
 1. **HTML, or Hyper Text Markup Language:**  Used to construct all the pages of this web site.  For further info on this language;   
@@ -120,7 +124,9 @@ https://coolors.co/292122-fe6d04-fdffff
 
 6. **Desktop**
 
-      * Google Chrome browser; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.       
+      * Google Chrome browser; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.
+      * Internet Edge; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.
+      * Mozilla Firefox; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.        
 
 7.  **Modal**
 
