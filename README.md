@@ -19,7 +19,7 @@
 
 ## Women In Aviation.
 
-![Apple Devices picture](./wireframes/IMG_1754.jpg)
+![Apple Devices picture](./wireframes/IMG_2382.jpg)
 
 This is my first milestone project; Designed to exhibit my capabilities and skills in html and css, as a student 
 of Code Institute. (https://codeinstitute.net/)
@@ -120,7 +120,7 @@ https://coolors.co/292122-fe6d04-fdffff
      
       * Safari browser; all pages, links on those pages and footer icon links perform as they should.
 
-![Apple Devices picture](./wireframes/IMG_1754.jpg)      
+![Apple Devices picture](./wireframes/IMG_2382.jpg)      
 
 6. **Desktop**
 
