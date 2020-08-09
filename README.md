@@ -130,7 +130,11 @@ https://coolors.co/292122-fe6d04-fdffff
       * Try to submit the form without a correct syntax e-mail address and you will get an error message requesting a proper e-mail address be entered.
       * Trying to submit the form with any empty fields will also give you a "Please fill out this field" message.
 
-7.  **Open Issues:** Needs more female pilots on the Meet The Aviatrices page.
+7.  **Open Issues:** 
+       
+      * Needs more female pilots on the Meet The Aviatrices page.
+      * Cursor changes to a text symbol when hovered over the Find Out More! link in the header.
+
      
 ## Deployment.
 
