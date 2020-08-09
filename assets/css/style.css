@@ -78,7 +78,7 @@ h2 {
 .headline-image {
      display: flex;
      background: url('../images/headline.JPG') no-repeat center;
-     background-size: 60% 100%;
+     background-size: 70% 100%;
      padding-bottom: 10px;
      
  }
