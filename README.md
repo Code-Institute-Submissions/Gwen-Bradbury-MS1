@@ -19,7 +19,7 @@
 
 ## Women In Aviation.
 
-![Apple Devices picture](./wireframes/IMG_2382.jpg)
+![Apple Devices picture](./wireframes/image1.jpeg)
 
 This is my first milestone project; Designed to exhibit my capabilities and skills in html and css, as a student 
 of Code Institute. (https://codeinstitute.net/)
@@ -106,7 +106,7 @@ https://coolors.co/292122-fe6d04-fdffff
      
       * Google Chrome browser; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.
 
-![Chrome browser picture](./wireframes/IMG_4134.jpg) 
+![Chrome browser picture](./wireframes/IMG_4202.jpg) 
 
 3.  **Mobile**
 
@@ -116,7 +116,7 @@ https://coolors.co/292122-fe6d04-fdffff
 
       * Safari browser; all pages, links on those pages and footer icon links perform as they should.
 
-![Apple Devices picture](./wireframes/IMG_2382.jpg)      
+![Apple Devices picture](./wireframes/image1.jpeg)      
 
 5. **Desktop**
 
