@@ -47,6 +47,10 @@ h1,
     padding-bottom: 10px;
 }
 
+a {
+    cursor: pointer;
+}
+
 /* Headings */
 h2,
 h4 {
@@ -89,7 +93,6 @@ h2 {
 }
 
 /* Gallery*/
-
 .gallery-image {
     border: 5px outset;
     height: 200px;
