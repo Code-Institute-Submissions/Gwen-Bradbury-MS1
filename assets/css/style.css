@@ -87,6 +87,12 @@ h2 {
      
  }
 
+ /* Did you know*/
+ .did-you-know {
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+
 /* Meet index.html */
 .meet-us {
     align-items: center;
@@ -108,3 +114,4 @@ h2 {
     border-bottom: 2px solid #ff8c00;
     padding-bottom: 10px;
 }
+
