@@ -90,6 +90,8 @@ h2 {
 /* Meet index.html */
 .meet-us {
     align-items: center;
+    padding: 10px;
+    margin: 10px;
 }
 
 /* Gallery*/
