@@ -4,11 +4,6 @@ body {
     font-family: "Oxygen", sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    min-height: 100%;
-}
-
-html {
-    height: 100%;
 }
 
 /* Font awesome, orange underline and buttons */
