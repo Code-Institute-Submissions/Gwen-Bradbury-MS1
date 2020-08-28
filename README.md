@@ -131,7 +131,6 @@ https://coolors.co/292122-fe6d04-fdffff
 7.  **Open Issues:** 
        
       * Needs more female pilots on the Meet The Aviatrices page.
-      * Cursor changes to a text symbol when hovered over the Find Out More! link in the header.
 
      
 ## Deployment.
