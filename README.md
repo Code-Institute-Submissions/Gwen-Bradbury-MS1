@@ -80,7 +80,7 @@ https://coolors.co/292122-fe6d04-fdffff
 1. **HTML, or Hyper Text Markup Language:**  Used to construct all the pages of this web site.  For further info on this language;   
  https://developer.mozilla.org/en-US/docs/Web/HTML
 
-2. **CSS, or Cascading Style Sheets:**  Is used to style various elements on a web page via coloring, fonts, spacing, etc.  For further info, see this link;
+2. **CSS, or Cascading Style Sheets:**  Used to style various elements on the web page via coloring, fonts, spacing, etc.  For further info, see this link;
  https://www.w3.org/Style/CSS/Overview.en.html
 
 3. **Bootstrap:**  A CSS framework that assists the programmer in creating responsive, mobile first front-end web sites. https://getbootstrap.com/
@@ -90,12 +90,12 @@ https://coolors.co/292122-fe6d04-fdffff
 
 5. **Git:**  A version control system for tracking changes in source code during software development. https://git-scm.com/
 
-6. **GitHub:** A company that provides hosting for software development version control using Git. It is a subsidiary of Microsoft. https://github.
+6. **GitHub:**  A company that provides hosting for software development version control using Git. It is a subsidiary of Microsoft. https://github.
 
-7. **Chrome DevTools:**   A set of web developer tools built directly into the Google Chrome browser. I used these tools constantly thoughout the development cycle.
+7. **Chrome DevTools:**  A set of web developer tools built directly into the Google Chrome browser. I used these tools constantly thoughout the development cycle.
  https://developers.google.com/web/tools/chrome-devtools
 
-8. **W3C Markup Validation Service**  Used to run all html and css code thru a validation process looking for errors; https://validator.w3.org/
+8. **W3C Markup Validation Service:**  Used to run all html and css code thru a validation process looking for errors; https://validator.w3.org/
  https://jigsaw.w3.org/css-validator/validator
 
 ## Testing.
@@ -190,7 +190,7 @@ border around the gallery section (index.html), and gallery.html. https://w3scho
 
 ### Acknowledgements-
 
-1. My mentor Adegbenga for his help and many other pieces of advice alongside motivation to get me through.`
+1. My mentor Adegbenga for his help and many other pieces of advice alongside motivation to get me through.
 
 2. Code Institute's Slack Channels and the many alunni, mentors, tutors and users who contribute to them; the many pinned announcements, pdf files, etc. were of great help, as was the advice and motivation
 given by the many members. https://app.slack.com/client/T0L30B202/C0L316Z96
