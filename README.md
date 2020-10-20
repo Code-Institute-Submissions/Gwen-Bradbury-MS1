@@ -1,37 +1,34 @@
 # Women In Aviation.
 
-- [Women In Aviation.](#women-in-aviation)
-- [UX.](#ux)
-    + [Wireframes-](#wireframes-)
-    + [Colour Palette-](#colour-palette-)
-    + [User stories-](#user-stories-)
-- [Features.](#features)
-  * [Existing Features-](#existing-features-)
-- [Technologies used.](#technologies-used)
-- [Testing.](#testing)
-- [Deployment.](#deployment)
-- [Credits.](#credits)
-  * [Content-](#content-)
-  * [Media-](#media-)
-  * [Acknowledgements-](#acknowledgements-)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-## Women In Aviation.
+## Introduction
 
 ![Apple Devices picture](./wireframes/image1.jpeg)
 
 This is my first milestone project; Designed to exhibit my capabilities and skills in html and css, as a student 
 of Code Institute. (https://codeinstitute.net/)
 The goal was to showcase my skills to potential employers/recruiters, on a topic that I'm deeply interested in.
-My project is about inspiring more women to get into the world of aviation and become pilots.
+My project is about inspiring more women to get into the world of aviation and become pilots. This website allows users to to discover female pilots and learn a bit about why they fly.
+It presents a landing page with information on both aviation pioneers and female pilot organisations working to support and encourage women in the flight deck.
+The meet the aviatrices page is a list of current pilots complete with picture and summary of why they enjoy flying.
+The gallery page boasts a collection of inflight images to give the user and idea of what its like to fly an aircraft. 
+The Find out more modal allows users to email the site owner specific questions and inquiries.
+The website is colourful and engaging, drawing the user in with bright, bold images and standout text, which I hope entices them
+to get behind the controls of an aircraft.
+
+A link to my website can be found [here](https://gwen-bradbury.github.io/MS1/)
 
 ## UX.
+
+### Goals-
 
 The purpose of the site is to provide a simple, easy to use format presenting information about the pioneers 
 of women in aviation.
 My website is designed for people curious about getting into aviation, specifically women, and im hopeful my website 
 will give them the motivation towards getting into the cockpit.
+The website is fully functional and interactive giving the user a positive experience as they move throught the pages.
+I focused on a design that would be engaging and easy to navigate so users will continue to repeatedly visit and make use of the
+features inplimented within the website.
 
 #### Wireframes-
 
@@ -40,6 +37,15 @@ will give them the motivation towards getting into the cockpit.
  ![Wireframe picture](./wireframes/MS1galleryhtml.jpeg) 
 
 After speaking to my mentor it was advised that I remove the carousel, in gallery.html, and have a grid system for my images, to make them more user friendly.
+
+### Design
+
+#### Design Process- 
+
+1. _Strategy Plane_ -
+2. _Scope Plane_ -
+3. _Structure Plane_ -
+4. _Surface Plane_ -
 
 #### Colour Palette-
 
