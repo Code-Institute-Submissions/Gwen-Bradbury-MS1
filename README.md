@@ -157,12 +157,12 @@ To continue with cloning, you would;
 
 ### Content-
 
-1. bootstrap modal taken directly from bootstraps components. https://getbootstrap.com/ 
+1. Bootstrap modal taken directly from bootstraps components https://getbootstrap.com/ 
 
 2. W3C Schools; Used for the cards in Meet the aviatrices section (index.html) and meet-the-aviatrices.html, and for the
 border around the gallery section (index.html), and gallery.html. https://w3schools.com
 
-3. Google Fonts for font styles; https://fonts.google.com/
+3. Google Fonts for font styles https://fonts.google.com/
 
 4. All statistical information taken from- 
   * International society of women pilots. https://www.iswap.org/
@@ -173,16 +173,16 @@ border around the gallery section (index.html), and gallery.html. https://w3scho
 
 6. Wireframes https://app.lucidchart.com/
 
-7. Form in modal taken from bootstraps components. https://getbootstrap.com/ 
+7. Form in modal taken from bootstraps components https://getbootstrap.com/ 
 
 ### Media-
 
 1. Am I Responsive web site for checking responsiveness on all Apple devices screen sizes;
    http://ami.responsivedesign.is/
 
-2. Font Awesome for aeroplane icon and social media icons; https://fontawesome.com/
+2. Font Awesome for aeroplane icon and social media icons https://fontawesome.com/
 
-3. Images and quotes from other pilots used with thier written permission. 
+3. Images and quotes from other pilots used with thier written permission
 
 4. Code Institues tutorial videos (https://codeinstitute.net/)
 
