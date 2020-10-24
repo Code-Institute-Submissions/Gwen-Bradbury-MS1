@@ -66,7 +66,24 @@ After speaking to my mentor it was advised that I remove the carousel, in galler
 
 #### Colour Palette-
 
+I used coolors to generate my colour scheme-
+
 https://coolors.co/292122-fe6d04-fdffff
+
+I chose ![#04010eda](https://placehold.it/15/04010EDA/000000?text=+) #04010eda and ![#ff8c00](https://placehold.it/15/FF8C00/000000?text=+) #ff8c00 for my header, footer and headings backgrounds as the two colours contrast and make those aspects stand out. The dark colour makes the website look proffessional, yet, like with flying, it needed that element of fun which I acheived with the orange border and font awesome icons.
+I used  ![#ff8c00](https://placehold.it/15/FF8C00/000000?text=+) #ff8c00 as the background of my 'more' buttons to give more emphasis to the user controls.
+The heading text colour I left ![#fff](https://placehold.it/15/FFF/000000?text=+) #FFF white so it could be read easily by the user.
+The "Did You Know" text, pilot quotes and gallery text I left black against the white background  to give it a clean, easy to read formatt.
+
+#### Font-
+
+The Fonts I used for this project are Oxygen and Open Sans with the font weights:
+
+ * 300 - For my modal body used with font Open Sans.
+ * 400 - For my html body used with font Oxygen. 
+
+The fonts were chosen as they complemented the overall design and feel I wanted for the website.
+The underline text decoration was used on some of the smaller headings to make them stand out.
 
 #### User stories-
 
