@@ -85,11 +85,27 @@ The Fonts I used for this project are Oxygen and Open Sans with the font weights
 The fonts were chosen as they complemented the overall design and feel I wanted for the website.
 The underline text decoration was used on some of the smaller headings to make them stand out.
 
-#### User stories-
+## User stories
+
+### As a Site User-
 
 - As a potential female pilot, I want to quickly and easily find all relevant information on women in aviation. A brief history on women in avitation can be found in the index.html home page, and for
   current female pilots, the Meet The Aviatrices page has a list of current pilots, including a picture and small discription on why they love flying. They can also add thier name and email into the Find Out More modal
   and someone will email them back to answer any specific questions they might have.
+
+- As a user, I want to know how the website works and have easy to follow instructions.
+
+- As a user, I want to know when I take the wrong action or when something doesn't work.
+
+- As a user, I want the the website to be easy to use and navigate.  
+
+### As a Designer-
+
+- As a web designer and developer, I want my website to be user friendly with easy to navigate pages, and messages that tell the user when things aren't working as they should.
+My website should leave the user feeling positive and with the knowledge they were looking for within the site. Information on the site should be presented in a simple, clean formatt, with no unexpected surprises for the user.
+
+
+### As an Employer- 
 
 - As an employer/recruiter, I need to see and review the skills and work capabilities, and analyze if you have the skills we require. In this website I've used many user-friendly features to showcase my skills as a developer.
   From the layout and colour scheme to the scroll bar on the Meet The Aviatrices quotes section, every implemented piece of code has been built to make the site as appealing and easy to use for customers as possible.
@@ -99,7 +115,7 @@ The underline text decoration was used on some of the smaller headings to make t
 - On our Human Resources team, we look for the information that pertains to the specific needs of the company, and does this individual have those skill sets. My skill sets are evidenced in the website produced. I've used a wide range of HTML and CSS to
   develop this site, as well as technologies such as bootstrap for responsiveness.
 
-## Features.
+## Features
 
 ### Existing Features-
 
