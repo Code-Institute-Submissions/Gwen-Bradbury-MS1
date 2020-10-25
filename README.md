@@ -71,16 +71,16 @@ I used coolors to generate my colour scheme-
 https://coolors.co/292122-fe6d04-fdffff
 
 I chose ![#04010eda](https://placehold.it/15/04010EDA/000000?text=+) #04010eda and ![#ff8c00](https://placehold.it/15/FF8C00/000000?text=+) #ff8c00 for my header, footer and headings backgrounds as the two colours contrast and make those aspects stand out. The dark colour makes the website look proffessional, yet, like with flying, it needed that element of fun which I acheived with the orange border and font awesome icons.
-I used  ![#ff8c00](https://placehold.it/15/FF8C00/000000?text=+) #ff8c00 as the background of my 'more' buttons to give more emphasis to the user controls.
+I used ![#ff8c00](https://placehold.it/15/FF8C00/000000?text=+) #ff8c00 as the background of my 'more' buttons to give more emphasis to the user controls.
 The heading text colour I left ![#fff](https://placehold.it/15/FFF/000000?text=+) #FFF white so it could be read easily by the user.
-The "Did You Know" text, pilot quotes and gallery text I left black against the white background  to give it a clean, easy to read formatt.
+The "Did You Know" text, pilot quotes and gallery text I left black against the white background to give it a clean, easy to read formatt.
 
 #### Font-
 
 The Fonts I used for this project are Oxygen and Open Sans with the font weights:
 
- * 300 - For my modal body used with font Open Sans.
- * 400 - For my html body used with font Oxygen. 
+- 300 - For my modal body used with font Open Sans.
+- 400 - For my html body used with font Oxygen.
 
 The fonts were chosen as they complemented the overall design and feel I wanted for the website.
 The underline text decoration was used on some of the smaller headings to make them stand out.
@@ -97,15 +97,14 @@ The underline text decoration was used on some of the smaller headings to make t
 
 - As a user, I want to know when I take the wrong action or when something doesn't work.
 
-- As a user, I want the the website to be easy to use and navigate.  
+- As a user, I want the the website to be easy to use and navigate.
 
 ### As a Designer-
 
 - As a web designer and developer, I want my website to be user friendly with easy to navigate pages, and messages that tell the user when things aren't working as they should.
-My website should leave the user feeling positive and with the knowledge they were looking for within the site. Information on the site should be presented in a simple, clean formatt, with no unexpected surprises for the user.
+  My website should leave the user feeling positive and with the knowledge they were looking for within the site. Information on the site should be presented in a simple, clean formatt, with no unexpected surprises for the user.
 
-
-### As an Employer- 
+### As an Employer-
 
 - As an employer/recruiter, I need to see and review the skills and work capabilities, and analyze if you have the skills we require. In this website I've used many user-friendly features to showcase my skills as a developer.
   From the layout and colour scheme to the scroll bar on the Meet The Aviatrices quotes section, every implemented piece of code has been built to make the site as appealing and easy to use for customers as possible.
@@ -119,19 +118,50 @@ My website should leave the user feeling positive and with the knowledge they we
 
 ### Existing Features-
 
-- **Home** - A picture and introduction to what my website is about. This page also includes a brief history on women in aviation and a sneak peak into the information on the following pages, set out in different sections.
+#### Features on the Home Page-
 
-- **Meet the aviatrices** - Pictures and quotes from female pilots discussing what they love about flying. The quotes have a scroll bar to make the page look more tidy and are in a card layout with the image sitting above the pilots name and quote.
+- _Navbar_ - Holds the name of the page and links that will take the user to the other pages of the site when clicked. It has a dropdown toggle for use on smaller screens and is fixed so will always be seen by the user. 
+The nav links have an a:hover CSS element that allows the user to see that the cursor is over a nav link and that it can be clicked.
 
-- **Gallery** - In flight images taken on various flights to hopefully give the viewer a closer look into the life of a pilot. The images are accompanied by a small decription outlining a few flight details.
+- _Headliine Image_ - The main image gives the user a hint as to what the sites about. It features a woman at the controls of an aeroplane. It also holds the heading 'Women In Aviation'.
 
-- **Find out more** - A model and form that allows potential pilots to request more information by leaving their name and email address. This allows for more specific questions to be answered they may not relate to every individual.
+- _Did you know_ - A brief history on women in aviation and information on the various organisations around the world, who's primary objective is to support women in aviation and to ecourage more women to take up flying. It also contains two images to catch the users eye and keep them engaged.
 
-- **Page Links** - The links in the header will take you to the page specified.
+- _Meet the Aviatrices_- A section that holds a selection of female pilots taken from the 'Meet the Aviatrices' page. This section also has a 'More Pilots' button that will take the user from that section to the 'Meet the Aviatrices' page - an alternative to using the navbar.
 
-- **More Buttons** - These buttons are another way to manouver to the other pages within the site.
+- _Gallery_ - A section that holds a selection of inflight images taken from the 'Gallery' page. This section also has a 'More Images' button that will take the user from that section to the 'Gallery' page - an alternative to using the navbar.
 
-## Technologies used.
+- _footer_ - Includes social media links in the form of font awesome icons.
+
+The Navbar, Carousel and Footer are repeated on the other pages of the website to give the website pages consistancy and flow.
+
+#### Features on the Meet the Aviatrices page-
+
+- _Images_ - A selection of current female pilots. Their pictures are taken next to/or at the controls of the type of aircraft they fly to inspire a future generation of pilots.
+
+- _Quote_ - Underneath the photos of the pilots is a heading with thier name in and a quote on why they love flying and what spurred them into the captains seat. The quotes have a scroll bar to make the page look more tidy.
+
+#### Features on the gallery page-
+
+- _Images_ - In flight images taken on various flights to hopefully give the viewer a closer look into the life of a pilot. 
+
+- _Text_ - A heading with the photo title in and a short sentence or two explaining a bit about the image sits underneath it. 
+
+### Features in the modal-
+
+- _Modal Form_ - This allows potential pilots to request more information by leaving their name and email address, allowing for more specific questions to be answered that may not relate to every individual. Users can also use the modal to inform the site owner of any problems encountered whilst visiting the site.
+
+### Features left to Implement- 
+
+- _More Pilots_ - In the future I'd like to add more feamle pilots to the 'Meet the Aviatrices' page.
+
+- _Modal_ - I want the modal to eventually auto send an email back to the user informing them that thier email has been recieved.
+
+### Bugs and Fixes Implemented after Testing-
+
+## Technologies used
+
+### Languages-
 
 1. **HTML, or Hyper Text Markup Language:** Used to construct all the pages of this web site. For further info on this language;  
    https://developer.mozilla.org/en-US/docs/Web/HTML
