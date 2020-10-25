@@ -157,6 +157,8 @@ The Navbar, Carousel and Footer are repeated on the other pages of the website t
 
 - _Modal_ - I want the modal to eventually auto send an email back to the user informing them that thier email has been recieved.
 
+- _Language Button_ - A button that can be clicked that translates the site into different languages so more people can use it.
+
 ### Bugs and Fixes Implemented after Testing-
 
 ## Technologies used
