@@ -171,19 +171,23 @@ The Navbar, Carousel and Footer are repeated on the other pages of the website t
 2. **CSS, or Cascading Style Sheets:** Used to style various elements on the web page via coloring, fonts, spacing, etc. For further info, see this link;
    https://www.w3.org/Style/CSS/Overview.en.html
 
-3. **Bootstrap:** A CSS framework that assists the programmer in creating responsive, mobile first front-end web sites. https://getbootstrap.com/
+### Libraries-
 
-4. **Gitpod:** An online IDE also used for creating & saving code that runs in a browser, it does not have to be installed on your PC.
+1. **Bootstrap:** A CSS framework that assists the programmer in creating responsive, mobile first front-end web sites. https://getbootstrap.com/
+
+### Tools-
+
+1. **Gitpod:** An online IDE also used for creating & saving code that runs in a browser, it does not have to be installed on your PC.
    https://www.gitpod.io/
 
-5. **Git:** A version control system for tracking changes in source code during software development. https://git-scm.com/
+2. **Git:** A version control system for tracking changes in source code during software development. https://git-scm.com/
 
-6. **GitHub:** A company that provides hosting for software development version control using Git. It is a subsidiary of Microsoft. https://github.
+3. **GitHub:** A company that provides hosting for software development version control using Git. It is a subsidiary of Microsoft. https://github.
 
-7. **Chrome DevTools:** A set of web developer tools built directly into the Google Chrome browser. I used these tools constantly thoughout the development cycle.
+4. **Chrome DevTools:** A set of web developer tools built directly into the Google Chrome browser. I used these tools constantly thoughout the development cycle.
    https://developers.google.com/web/tools/chrome-devtools
 
-8. **W3C Markup Validation Service:** Used to run all html and css code thru a validation process looking for errors; https://validator.w3.org/
+5. **W3C Markup Validation Service:** Used to run all html and css code thru a validation process looking for errors; https://validator.w3.org/
    https://jigsaw.w3.org/css-validator/validator
 
 ## Testing.
