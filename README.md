@@ -191,7 +191,7 @@ Try to submit the form without a correct syntax e-mail address and you will get 
 5. **W3C Markup Validation Service:** Used to run all html and css code thru a validation process looking for errors; https://validator.w3.org/
    https://jigsaw.w3.org/css-validator/validator
 
-## Testing.
+## Testing
 
 1.  http://ami.responsivedesign.is/ has been used to see how the site performs on different Apple devices and their viewports, all pages, links, icons performed as expected on all devices. I also used it to create the AppleDevicesView.png at the top of this Readme.
 
@@ -252,6 +252,8 @@ This website was developed in Gitpod and pushed to the remote repository, GitHub
 
 4. git status - To see the current state of the files.
 
+### Hosting on GitHub Pages-
+
 1. Created a Github account at https://github.com
    My account url; https://github.com/Gwen-Bradbury
 
@@ -260,7 +262,9 @@ This website was developed in Gitpod and pushed to the remote repository, GitHub
 3. To publish the project to see it on the web, I then went into the Settings on my respository, scrolled down to the heading, GitHub Pages. Under the Source setting, I used the drop-down menu to select master branch as a publishing source and saved it. Refreshed the github page, and you are then given a url where your page is published;
    Your site is published at https://gwen-bradbury.github.io/MS1/
 
-4. To run this code on your local machine, you would go to my respository at
+ ### Running this Project Locally-  
+
+1. To run this code on your local machine, you would go to my respository at
    https://github.com/Gwen-Bradbury/MS1 and on the home page on the right hand side just above all the files, you will see a green button that says,
    "Clone or download", this button will give you options to clone with HTTPS, open in desktop or download as a zip file.
    To continue with cloning, you would;
@@ -271,7 +275,7 @@ This website was developed in Gitpod and pushed to the remote repository, GitHub
 
 For more information about the above process; https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 
-## Credits.
+## Credits
 
 ### Content-
 
@@ -317,5 +321,9 @@ For more information about the above process; https://help.github.com/en/github/
 3. The amazing Code Institute Tutors.
 
 4. My wonderful pilot friends for their Images and quotes.
+
+## Disclaimer
+
+#### This website was made for educational purposes only
 
 ​
