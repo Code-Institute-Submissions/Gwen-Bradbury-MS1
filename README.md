@@ -150,6 +150,7 @@ The Navbar, Carousel and Footer are repeated on the other pages of the website t
 ### Features in the modal-
 
 - _Modal Form_ - This allows potential pilots to request more information by leaving their name and email address, allowing for more specific questions to be answered that may not relate to every individual. Users can also use the modal to inform the site owner of any problems encountered whilst visiting the site.
+Try to submit the form without a correct syntax e-mail address and you will get an error message requesting a proper e-mail address be entered. Trying to submit the form with any empty fields will also give you a "Please fill out this field" message.
 
 ### Features left to Implement- 
 
@@ -197,33 +198,59 @@ The Navbar, Carousel and Footer are repeated on the other pages of the website t
 2.  **Laptop**
 
     - Google Chrome browser; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.
+    The webpages are responsive and the images and contact form respond as expected, whilst maintaning user friendly design aspects. All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
+
+    ![Chromebook Devices picture](./wireframes/chromebook.png)
 
 3.  **Mobile**
 
-    - Safari browser; all pages, links on those pages and footer icon links perform well.
+    - Safari browser; all pages, links on those pages and footer icon links perform well. The webpages are responsive and the images and contact form respond as expected whilst maintaning user friendly design aspects. All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
 
 4.  **Ipad Pro**
 
-    - Safari browser; all pages, links on those pages and footer icon links perform as they should.
+    - Safari browser; all pages, links on those pages and footer icon links perform as they should. The webpages are responsive and the images and contact form respond as expected whilst maintaning user friendly design aspects. All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
 
 ![Apple Devices picture](./wireframes/image1.jpeg)
 
 5. **Desktop**
 
-   - Google Chrome browser; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.
-   - Internet Edge; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.
-   - Mozilla Firefox; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.
+   - Google Chrome browser; features and icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes. The webpages are responsive and the images and contact form repsond as expected whilst maintaning user friendly design aspects. All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
+   - Internet Edge; features and icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes. The webpages are responsive and the images and contact form respond as expected whilst maintaning user friendly design aspects. All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
+   - Mozilla Firefox; features and icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes. The webpages are responsive and the images and contact form respond as expected whilst maintaning user friendly design aspects. All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
 
 6. **Modal**
 
-   - Modal opens on every page. Submit, close and x button all close modal.
-   - Try to submit the form without a correct syntax e-mail address and you will get an error message requesting a proper e-mail address be entered.
-   - Trying to submit the form with any empty fields will also give you a "Please fill out this field" message.
+   - Modal opens on every page. Submit, close and x button all close modal. Modal is responsive and all buttons and fields have been filled out, pressed and tested on all veiwport sizes, and it all reponds as expected whilst maintaining user friendly design aspects.
 
-7. **Open Issues:**
-   - Needs more female pilots on the Meet The Aviatrices page.
+7. **Manual Testing**
 
-## Deployment.
+    - The website has been tested manually by myself and my friends in slack. All the buttons have been pressed, all the links tested and everything reacts as expected. It's been run on different screen sizes and browsers to test responsiveness and all buttons and links have been clicked across those various screen sizes and browsers and the website reacted as expected. 
+    - The nav links take the user to the respective pages across all devices, browsers and screen sizes.
+    - The send email button and modal work across all devices,browsers and screen sizes. 
+   
+All of my HTML and CSS was then run through the validators without returning any errors.  
+
+8. **Open Issues:**
+   
+   - Modal required field can be sightly out of line on some mobile views.
+
+ ### Validation of Code Testing- 
+
+   - All of my HTML and CSS was run through the validators without returning any errors.  
+
+## Deployment
+
+This website was developed in Gitpod and pushed to the remote repository, GitHub. The live page is hosted on GitHub Pages.
+
+#### Used Commands during Deployment-
+
+1. git add . - To add files to staging area.
+
+2. git commit -m "message here" - To commit the files.
+
+3. git push - To push the committed files to the origin master branch on github.
+
+4. git status - To see the current state of the files.
 
 1. Created a Github account at https://github.com
    My account url; https://github.com/Gwen-Bradbury
