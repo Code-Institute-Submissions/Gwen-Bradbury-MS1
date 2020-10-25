@@ -29,7 +29,7 @@ The website is fully functional and interactive giving the user a positive exper
 I focused on a design that would be engaging and easy to navigate so users will continue to repeatedly visit and make use of the
 features inplimented within the website.
 
-#### Wireframes-
+### Wireframes-
 
 ![Wireframe picture](./wireframes/MS1indexhtml.jpeg)
 ![Wireframe picture](./wireframes/MS1meet-the-aviatriceshtml.jpeg)
