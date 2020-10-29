@@ -1,5 +1,44 @@
 # Women In Aviation
 
+- [Introduction](#introduction)
+- [UX](#ux)
+  * [Goals-](#goals-)
+  * [Wireframes-](#wireframes-)
+  * [Design](#design)
+    + [Design Process-](#design-process-)
+    + [Colour Palette-](#colour-palette-)
+    + [Font-](#font-)
+- [User stories](#user-stories)
+  * [As a Site User-](#as-a-site-user-)
+  * [As a Designer-](#as-a-designer-)
+  * [As an Employer-](#as-an-employer-)
+- [Features](#features)
+  * [Existing Features-](#existing-features-)
+    + [Features on the Home Page-](#features-on-the-home-page-)
+    + [Features on the Meet the Aviatrices page-](#features-on-the-meet-the-aviatrices-page-)
+    + [Features on the gallery page-](#features-on-the-gallery-page-)
+  * [Features in the modal-](#features-in-the-modal-)
+  * [Features left to Implement-](#features-left-to-implement-)
+  * [Bugs and Fixes Implemented after Testing-](#bugs-and-fixes-implemented-after-testing-)
+- [Technologies used](#technologies-used)
+  * [Languages-](#languages-)
+  * [Libraries-](#libraries-)
+  * [Tools-](#tools-)
+- [Testing](#testing)
+  * [Validation of Code Testing-](#validation-of-code-testing-)
+- [Deployment](#deployment)
+    + [Used Commands during Deployment-](#used-commands-during-deployment-)
+  * [Hosting on GitHub Pages-](#hosting-on-github-pages-)
+  * [Running this Project Locally-](#running-this-project-locally-)
+- [Credits](#credits)
+  * [Content-](#content-)
+  * [Media-](#media-)
+  * [Acknowledgements-](#acknowledgements-)
+- [Disclaimer](#disclaimer)
+    + [This website was made for educational purposes only](#this-website-was-made-for-educational-purposes-only)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## Introduction
 
 ![Apple Devices picture](./wireframes/image1.jpeg)
@@ -200,7 +239,7 @@ Try to submit the form without a correct syntax e-mail address and you will get 
     - Google Chrome browser; all pages, links on those pages and footer icon links perform well on all viewport sizes. Developer tools were also used on browser for the various viewport sizes.
     The webpages are responsive and the images and contact form respond as expected, whilst maintaning user friendly design aspects. All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
 
-    ![Chromebook Devices picture](./wireframes/chromebook.png)
+    ![Chromebook Devices picture](./wireframes/chromebook.jpeg)
 
 3.  **Mobile**
 
