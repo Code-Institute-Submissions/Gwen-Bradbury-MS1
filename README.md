@@ -41,7 +41,7 @@
 
 ## Introduction
 
-![Apple Devices picture](./wireframes/image1.jpeg)
+![Apple Devices picture](./wireframes/responsive.jpeg)
 
 This is my first milestone project; Designed to exhibit my capabilities and skills in html and css, as a student
 of Code Institute. (https://codeinstitute.net/)
@@ -249,7 +249,7 @@ Try to submit the form without a correct syntax e-mail address and you will get 
 
     - Safari browser; all pages, links on those pages and footer icon links perform as they should. The webpages are responsive and the images and contact form respond as expected whilst maintaning user friendly design aspects. All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
 
-![Apple Devices picture](./wireframes/image1.jpeg)
+![Apple Devices picture](./wireframes/responsive.jpeg)
 
 5. **Desktop**
 
