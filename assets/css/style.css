@@ -89,6 +89,10 @@ h2 {
  /* Did you know*/
  .did-you-know {
      margin: 10px auto 10px auto;
+     height: auto;
+     width: 100%;
+     max-height: 400px;
+     max-width: 450px;
  }
 
 /* Meet index.html */
@@ -99,9 +103,10 @@ h2 {
 
 .card-img-top {
     margin: 10px auto 10px auto;
-    display: cover;
     width: 100%;
     height: auto;
+    max-height: 200px;
+    max-width: 250px;
 }
 
 /* Gallery*/
@@ -110,6 +115,8 @@ h2 {
     height: auto;
     width: 100%;
     margin-bottom: 10px;
+    max-height: 300px;
+    max-width: 350px;
 }
 
 .gallery-text {
