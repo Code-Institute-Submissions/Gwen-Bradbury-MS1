@@ -177,7 +177,7 @@ The nav links have an a:hover CSS element that allows the user to see that the c
 
 - _footer_ - Includes social media links in the form of font awesome icons.
 
-The Navbar, Carousel and Footer are repeated on the other pages of the website to give the website pages consistancy and flow.
+The Navbar and Footer are repeated on the other pages of the website to give the website pages consistancy and flow.
 
 #### Features on the Meet the Aviatrices page-
 
