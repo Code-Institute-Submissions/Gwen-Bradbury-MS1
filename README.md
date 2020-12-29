@@ -143,7 +143,8 @@ The underline text decoration was used on some of the smaller headings to make t
 ### As a Designer-
 
 - As a web designer and developer, I want my website to be user friendly with easy to navigate pages, and messages that tell the user when things aren't working as they should.
-  My website should leave the user feeling positive and with the knowledge they were looking for within the site. Information on the site should be presented in a simple, clean formatt, with no unexpected surprises for the user.
+  
+- As a web desiner and developer, My website should leave the user feeling positive and with the knowledge they were looking for within the site. Information on the site should be presented in a simple, clean formatt, with no unexpected surprises for the user.
 
 ### As an Employer-
 
