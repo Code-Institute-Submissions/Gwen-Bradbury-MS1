@@ -296,7 +296,7 @@ The webpages are responsive and the images and contact form respond as expected 
 * The 'Close' modal button closes the modal.
 * The 'x' closes the modal.  
 
-![Apple Devices picture](./wireframes/responsive.jpeg)
+![Apple Devices picture](./wireframes/responsive.jpg)
 
 5. **Desktop**
     - Google Chrome browser; features and icon links perform well on all viewport sizes. 
