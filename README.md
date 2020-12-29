@@ -201,7 +201,11 @@ Try to submit the form without a correct syntax e-mail address and you will get 
 
 ### Bugs and Fixes Implemented after Testing-
 
--_Max-height_- Added a CSS max-height and width to my images.
+- _Max-height_ - Added a CSS max-height and width to my images.
+
+- _Changed Logo_ - It was too long.
+
+- _Changed Headline Image_ - The old one cause response issues.
 
 ## Technologies used
 
