@@ -41,7 +41,7 @@
 
 ## Introduction
 
-![Apple Devices picture](./wireframes/responsive.jpeg)
+![Apple Devices picture](./wireframes/responsive.jpg)
 
 This is my first milestone project; Designed to exhibit my capabilities and skills in html and css, as a student
 of Code Institute. (https://codeinstitute.net/)
