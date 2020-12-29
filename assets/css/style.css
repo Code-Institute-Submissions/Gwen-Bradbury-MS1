@@ -79,10 +79,10 @@ h2 {
 
 /* Headline image */
 .headline-image {
-     background: url('../images/headline.JPG') no-repeat center;
+     background: url('../images/headline.jpg') no-repeat center;
      position: relative;
      max-height: 400px;
-     display: cover;
+     object-fit: cover;
      padding-bottom: 10px;
  } 
 
