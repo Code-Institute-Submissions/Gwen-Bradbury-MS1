@@ -201,6 +201,8 @@ Try to submit the form without a correct syntax e-mail address and you will get 
 
 ### Bugs and Fixes Implemented after Testing-
 
+-_Max-height_- Added a CSS max-height and width to my images.
+
 ## Technologies used
 
 ### Languages-

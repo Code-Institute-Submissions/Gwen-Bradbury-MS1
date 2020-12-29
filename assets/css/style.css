@@ -3,7 +3,6 @@
 body {
     font-family: "Oxygen", sans-serif;
     font-weight: 400;
-    letter-spacing: 1px;
 }
 
 /* Font awesome, orange underline and buttons */
@@ -80,20 +79,35 @@ h2 {
 
 /* Headline image */
 .headline-image {
-     display: cover;
      background: url('../images/headline.JPG') no-repeat center;
-     background-size: 900px 500px;
+     position: relative;
+     max-height: 400px;
+     display: cover;
      padding-bottom: 10px;
- }
+ } 
 
  /* Did you know*/
- .did-you-know {
-     margin: 10px auto 10px auto;
-     height: auto;
-     width: 100%;
-     max-height: 400px;
-     max-width: 450px;
- }
+ .meandkv {
+  float: left;
+  margin: 20px;
+  width: 40%;
+  height: auto;
+}
+
+.koliber {
+  float: right;
+  margin: 20px;
+  width: 40%;
+  height: auto;
+}
+
+.flying p {
+  clear: left;
+  vertical-align: text-top;
+  padding: 20px;
+  font-size: 100%;
+  text-align: left;
+}
 
 /* Meet index.html */
 .meet-us {
@@ -105,18 +119,18 @@ h2 {
     margin: 10px auto 10px auto;
     width: 100%;
     height: auto;
-    max-height: 200px;
+    max-height: 190px;
     max-width: 250px;
 }
 
 /* Gallery*/
 .gallery-image {
     border: 5px outset;
-    height: auto;
-    width: 100%;
     margin-bottom: 10px;
-    max-height: 300px;
-    max-width: 350px;
+    width: 100%;
+    height: auto;
+    max-height: 200px;
+    max-width: 250px;
 }
 
 .gallery-text {
