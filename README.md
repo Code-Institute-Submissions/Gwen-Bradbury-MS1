@@ -128,9 +128,11 @@ The underline text decoration was used on some of the smaller headings to make t
 
 ### As a Site User-
 
-- As a potential female pilot, I want to quickly and easily find all relevant information on women in aviation. A brief history on women in avitation can be found in the index.html home page, and for
-  current female pilots, the Meet The Aviatrices page has a list of current pilots, including a picture and small discription on why they love flying. They can also add thier name and email into the Find Out More modal
-  and someone will email them back to answer any specific questions they might have.
+- As a potential female pilot, I want to quickly and easily find all relevant information on women in aviation. A brief history on women in avitation can be found in the index.html home page. 
+
+- As a potential female pilot, I want a support group to support me mentally through my training. The Meet The Aviatrices page has a list of current pilots, including a picture and small discription on why they love flying. 
+  
+- As a user, I want ot be able to communitcate with the site owner. Users can add thier name and email into the Find Out More modal and someone will email them back to answer any specific questions they might have.
 
 - As a user, I want to know how the website works and have easy to follow instructions.
 
@@ -154,6 +156,8 @@ The underline text decoration was used on some of the smaller headings to make t
   develop this site, as well as technologies such as bootstrap for responsiveness.
 
 ## Features
+
+-   Responsive on all device sizes.
 
 ### Existing Features-
 
@@ -350,6 +354,7 @@ The results of this were -
         5. The website is easy to use and has easy to follow instructions.
         6. The site has been designed to be fluid and never to entrap the user.
         8. Links in the navbar are labelled clearly.
+        9. Information is layed out clearly and is easy to read.
 
     - The developer tested all the nav links, clicking them one at a time confirming that they take the user to the correct page.
     - The 'Home' navlink was tested resulting in the 'Home' page being loaded as programmed.
