@@ -15,7 +15,6 @@ body {
 }
 
 h1,
-.carousel-item p,
 .list-inline-item a:hover,
 .nav-item a:hover {
     border-bottom: 2px solid #ff8c00;
