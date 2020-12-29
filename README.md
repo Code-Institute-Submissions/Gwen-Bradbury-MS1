@@ -303,47 +303,50 @@ The webpages are responsive and the images and contact form respond as expected 
 Developer tools were also used on browser for the various viewport sizes. 
 The webpages are responsive and the images and contact form repsond as expected whilst maintaning user friendly design aspects. 
 All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
-* All buttons on the 'Home' page were pressed with correct responses given. 
-* The 'More Pilots' button takes the user to the 'Meet The Aviatrices' page.
-* The 'More Images' button takes the user to the 'Gallery' page.  
-* Nav links were clicked and tested for responses. All Nav links take users to the appropriate pages.
-* The 'Home' navlink brings users to the 'Home' page.
-* The 'Meet the Aviatrices' navlink takes the user to the the 'Meet The Aviatrices' page.
-* The 'Gallery' navlink takes the user to the 'Gallery' page.
-* The modal was opened on every page to ensure correct UX design.
-* The 'Submit' modal button closes the modal.
-* The 'Close' modal button closes the modal.
-* The 'x' closes the modal.  
+        * All buttons on the 'Home' page were pressed with correct responses given. 
+        * The 'More Pilots' button takes the user to the 'Meet The Aviatrices' page.
+        * The 'More Images' button takes the user to the 'Gallery' page.  
+        * Nav links were clicked and tested for responses. All Nav links take users to the appropriate pages.
+        * The 'Home' navlink brings users to the 'Home' page.
+        * The 'Meet the Aviatrices' navlink takes the user to the the 'Meet The Aviatrices' page.
+        * The 'Gallery' navlink takes the user to the 'Gallery' page.
+        * The modal was opened on every page to ensure correct UX design.
+        * The 'Submit' modal button closes the modal.
+        * The 'Close' modal button closes the modal.
+        * The 'x' closes the modal. 
+
     - Internet Edge; features and icon links perform well on all viewport sizes. 
 Developer tools were also used on browser for the various viewport sizes. 
 The webpages are responsive and the images and contact form respond as expected whilst maintaning user friendly design aspects. 
 All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
-* All buttons on the 'Home' page were pressed with correct responses given. 
-* The 'More Pilots' button takes the user to the 'Meet The Aviatrices' page.
-* The 'More Images' button takes the user to the 'Gallery' page.  
-* Nav links were clicked and tested for responses. All Nav links take users to the appropriate pages.
-* The 'Home' navlink brings users to the 'Home' page.
-* The 'Meet the Aviatrices' navlink takes the user to the the 'Meet The Aviatrices' page.
-* The 'Gallery' navlink takes the user to the 'Gallery' page.
-* The modal was opened on every page to ensure correct UX design.
-* The 'Submit' modal button closes the modal.
-* The 'Close' modal button closes the modal.
-* The 'x' closes the modal.  
+        * All buttons on the 'Home' page were pressed with correct responses given. 
+        * The 'More Pilots' button takes the user to the 'Meet The Aviatrices' page.
+        * The 'More Images' button takes the user to the 'Gallery' page.  
+        * Nav links were clicked and tested for responses. All Nav links take users to the appropriate pages.
+        * The 'Home' navlink brings users to the 'Home' page.
+        * The 'Meet the Aviatrices' navlink takes the user to the the 'Meet The Aviatrices' page.
+        * The 'Gallery' navlink takes the user to the 'Gallery' page.
+        * The modal was opened on every page to ensure correct UX design.
+        * The 'Submit' modal button closes the modal.
+        * The 'Close' modal button closes the modal.
+        * The 'x' closes the modal.  
+
     - Mozilla Firefox; features and icon links perform well on all viewport sizes. 
 Developer tools were also used on browser for the various viewport sizes. 
 The webpages are responsive and the images and contact form respond as expected whilst maintaning user friendly design aspects. 
 All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
-* All buttons on the 'Home' page were pressed with correct responses given. 
-* The 'More Pilots' button takes the user to the 'Meet The Aviatrices' page.
-* The 'More Images' button takes the user to the 'Gallery' page.  
-* Nav links were clicked and tested for responses. All Nav links take users to the appropriate pages.
-* The 'Home' navlink brings users to the 'Home' page.
-* The 'Meet the Aviatrices' navlink takes the user to the the 'Meet The Aviatrices' page.
-* The 'Gallery' navlink takes the user to the 'Gallery' page.
-* The modal was opened on every page to ensure correct UX design.
-* The 'Submit' modal button closes the modal.
-* The 'Close' modal button closes the modal.
-* The 'x' closes the modal.  
+        * All buttons on the 'Home' page were pressed with correct responses given. 
+        * The 'More Pilots' button takes the user to the 'Meet The Aviatrices' page.
+        * The 'More Images' button takes the user to the 'Gallery' page.  
+        * Nav links were clicked and tested for responses. All Nav links take users to the appropriate pages.
+        * The 'Home' navlink brings users to the 'Home' page.
+        * The 'Meet the Aviatrices' navlink takes the user to the the 'Meet The Aviatrices' page.
+        * The 'Gallery' navlink takes the user to the 'Gallery' page.
+        * The modal was opened on every page to ensure correct UX design.
+        * The 'Submit' modal button closes the modal.
+        * The 'Close' modal button closes the modal.
+        * The 'x' closes the modal.  
+        
 6. **Modal**
    - Modal opens on every page. Submit, close and x button all close modal. Modal is responsive and all buttons and fields have been filled out, pressed and tested on all veiwport sizes, and it all reponds as expected whilst maintaining user friendly design aspects.
 
