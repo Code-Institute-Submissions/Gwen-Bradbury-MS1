@@ -198,6 +198,8 @@ Try to submit the form without a correct syntax e-mail address and you will get 
 
 ### Features left to Implement- 
 
+- _Search bar_ - I want the users to be able to use the search bar to search the site.
+
 - _More Pilots_ - In the future I'd like to add more feamle pilots to the 'Meet the Aviatrices' page.
 
 - _Modal_ - I want the modal to eventually auto send an email back to the user informing them that thier email has been recieved.
