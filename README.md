@@ -109,9 +109,9 @@ I used coolors to generate my colour scheme-
 
 https://coolors.co/292122-fe6d04-fdffff
 
-I chose ![#04010eda](https://placehold.it/15/04010EDA/000000?text=+) #04010eda and ![#ff8c00](https://placehold.it/15/FF8C00/000000?text=+) #ff8c00 for my header, footer and headings backgrounds as the two colours contrast and make those aspects stand out. The dark colour makes the website look proffessional, yet, like with flying, it needed that element of fun which I acheived with the orange border and font awesome icons.
-I used ![#ff8c00](https://placehold.it/15/FF8C00/000000?text=+) #ff8c00 as the background of my 'more' buttons to give more emphasis to the user controls.
-The heading text colour I left ![#fff](https://placehold.it/15/FFF/000000?text=+) #FFF white so it could be read easily by the user.
+I chose #04010eda and #ff8c00 for my header, footer and headings backgrounds as the two colours contrast and make those aspects stand out. The dark colour makes the website look proffessional, yet, like with flying, it needed that element of fun which I acheived with the orange border and font awesome icons.
+I used #ff8c00 as the background of my 'more' buttons to give more emphasis to the user controls.
+The heading text colour I left #FFF white so it could be read easily by the user.
 The "Did You Know" text, pilot quotes and gallery text I left black against the white background to give it a clean, easy to read formatt.
 
 #### Font-
@@ -203,7 +203,7 @@ Try to submit the form without a correct syntax e-mail address and you will get 
 
 - _Max-height_ - Added a CSS max-height and width to my images.
 
-- _Changed Logo_ - It was too long.
+- _Changed Logo_ - It was too long and caused response issues.
 
 - _Changed Headline Image_ - The old one cause response issues.
 
@@ -306,6 +306,18 @@ This website was developed in Gitpod and pushed to the remote repository, GitHub
 
 3. To publish the project to see it on the web, I then went into the Settings on my respository, scrolled down to the heading, GitHub Pages. Under the Source setting, I used the drop-down menu to select master branch as a publishing source and saved it. Refreshed the github page, and you are then given a url where your page is published;
    Your site is published at https://gwen-bradbury.github.io/MS1/
+
+### Forking the GitHub Repository -
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original 
+repository by using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+
+3. You should now have a copy of the original repository in your GitHub account.
+
 
  ### Running this Project Locally-  
 
