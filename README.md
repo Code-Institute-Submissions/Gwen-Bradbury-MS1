@@ -346,7 +346,7 @@ All buttons, markers and links were clicked and tested for responses, all featur
         * The 'Submit' modal button closes the modal.
         * The 'Close' modal button closes the modal.
         * The 'x' closes the modal.  
-        
+
 6. **Modal**
    - Modal opens on every page. Submit, close and x button all close modal. Modal is responsive and all buttons and fields have been filled out, pressed and tested on all veiwport sizes, and it all reponds as expected whilst maintaining user friendly design aspects.
 
@@ -481,5 +481,3 @@ For more information about the above process; https://help.github.com/en/github/
 ## Disclaimer
 
 #### This website was made for educational purposes only
-
-​
