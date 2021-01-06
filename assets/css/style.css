@@ -93,6 +93,7 @@ h2 {
     position: relative;
     object-fit: cover;
     padding-bottom: 10px;
+    height: auto;
  } 
 
  /* Did you know*/
@@ -102,9 +103,8 @@ h2 {
     height: auto;
 }
 
+.section2 p,
 .section1 p {
-   vertical-align: text-top;
-   padding: 20px;
    font-size: 15px;
 }
 
@@ -112,12 +112,6 @@ h2 {
    margin: 10px auto 10px auto;
    width: 50%;
    height: auto;
-}
-
-.section2 p {
-   vertical-align: text-top;
-   padding: 20px;
-   font-size: 15px;
 }
 
 /* Meet index.html */
@@ -132,6 +126,13 @@ h2 {
     height: auto;
     max-height: 190px;
     max-width: 250px;
+}
+
+.quote {
+    font-size: 15px;
+    max-height: 200px;
+    height: 200px;
+    overflow: scroll;
 }
 
 /* Gallery*/
