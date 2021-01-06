@@ -24,8 +24,18 @@ h1,
 .more-button a {
     color: #04010eda;
     text-decoration: none;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+/* Navbar */
+.navbar {
+    margin: 0px 0px 20px 0px;
+    padding: 10px 0px 10px 0px;
+}
+
+.nav-item,
+.navbar-brand {
+    padding: 10px;
 }
 
 /* Modal */
@@ -78,34 +88,36 @@ h2 {
 
 /* Headline image */
 .headline-image {
-     background: url('../images/headline.jpg') no-repeat center;
-     position: relative;
-     max-height: 400px;
-     object-fit: cover;
-     padding-bottom: 10px;
+    background: url('../images/headline.jpg') no-repeat center;
+    max-height: 400px;
+    position: relative;
+    object-fit: cover;
+    padding-bottom: 10px;
  } 
 
  /* Did you know*/
  .meandkv {
-  float: left;
-  margin: 20px;
-  width: 40%;
-  height: auto;
+    margin: 10px auto 10px auto;
+    width: 50%;
+    height: auto;
+}
+
+.section1 p {
+   vertical-align: text-top;
+   padding: 20px;
+   font-size: 15px;
 }
 
 .koliber {
-  float: right;
-  margin: 20px;
-  width: 40%;
-  height: auto;
+   margin: 10px auto 10px auto;
+   width: 50%;
+   height: auto;
 }
 
-.flying p {
-  clear: left;
-  vertical-align: text-top;
-  padding: 20px;
-  font-size: 100%;
-  text-align: left;
+.section2 p {
+   vertical-align: text-top;
+   padding: 20px;
+   font-size: 15px;
 }
 
 /* Meet index.html */
@@ -137,9 +149,4 @@ h2 {
     text-align: center;
     border-bottom: 2px solid #ff8c00;
     padding-bottom: 10px;
-}
-
-.navbar {
-    margin: 0;
-    padding: 10px 0px 10px 0px;
 }
