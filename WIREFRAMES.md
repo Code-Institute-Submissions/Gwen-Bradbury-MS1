@@ -15,6 +15,8 @@ After speaking to my mentor it was advised that I remove the carousel, in galler
 
 ### Mock Up's -
 
+My mentor advised 2 Images per row in the gallery and gallery section index.html.
+
 ![Mock Up picture](./wireframes/MS1.jpeg)
 
 ** Back to [README.md](./README.md) **

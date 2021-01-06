@@ -206,6 +206,8 @@ Try to submit the form without a correct syntax e-mail address and you will get 
 
 ### Bugs and Fixes Implemented after Testing-
 
+- _Images_ - The Images within the gallery section index.html and gallery.html made two per row on larger screen sizes instead of 3 per row.
+
 - _Max-height_ - Added a CSS max-height and width to my images.
 
 - _Changed Logo_ - It was too long and caused response issues.
