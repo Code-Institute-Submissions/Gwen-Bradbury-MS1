@@ -15,8 +15,6 @@ After speaking to my mentor it was advised that I remove the carousel, in galler
 
 ### Mock Up's -
 
-![Mock Up picture](./wireframes/MS1indexhtml.jpeg)
-![Mock Up picture](./wireframes/MS1meet-the-aviatriceshtml.jpeg)
-![Mock Up picture](./wireframes/MS1galleryhtml.jpeg)
+![Mock Up picture](./wireframes/MS1.jpeg)
 
 ** Back to [README.md](./README.md) **
