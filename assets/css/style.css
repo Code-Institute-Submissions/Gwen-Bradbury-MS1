@@ -24,6 +24,10 @@ h1,
 .more-button a {
     color: #04010eda;
     text-decoration: none;
+}
+
+.more-button {
+    margin-top: 0;
     margin-bottom: 60px;
 }
 
@@ -101,6 +105,8 @@ h2 {
     margin: 10px auto 10px auto;
     width: 50%;
     height: auto;
+    min-height: 200px;
+    min-width: 200px
 }
 
 .section2 p,
@@ -108,16 +114,22 @@ h2 {
    font-size: 15px;
 }
 
+.section2 {
+    margin-bottom: 60px;
+}
+
 .koliber {
    margin: 10px auto 10px auto;
    width: 50%;
    height: auto;
+   min-height: 180px;
+   min-width: 200px
 }
 
-/* Meet index.html */
+/* Meet Us */
 .meet-us {
     padding: 10px;
-    margin: 10px;
+    margin: 10px, 10px, 10px, 0px;
 }
 
 .card-img-top {
