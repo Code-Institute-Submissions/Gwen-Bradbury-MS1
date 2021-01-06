@@ -17,7 +17,7 @@ body {
 h1,
 .list-inline-item a:hover,
 .nav-item a:hover {
-    border-bottom: 2px solid #ff8c00;
+    border-bottom: 1px solid #ff8c00;
 }
 
 .more-button,
@@ -40,10 +40,6 @@ h1,
 .nav-item,
 .navbar-brand {
     padding: 15px;
-}
-
-nav {
-    justify-content: right;
 }
 
 /* Modal */
@@ -117,6 +113,7 @@ h2 {
 .section2 p,
 .section1 p {
    font-size: 15px;
+   text-align: center;
 }
 
 .section2 {
@@ -134,7 +131,7 @@ h2 {
 /* Meet Us */
 .meet-us {
     padding: 10px;
-    margin: 10px, 10px, 10px, 0px;
+    margin: 10px, 10px, 10px, 10px;
 }
 
 .card-img-top {
