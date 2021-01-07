@@ -196,7 +196,7 @@ Try to submit the form without a correct syntax e-mail address and you will get 
 
 ### Features left to Implement- 
 
-- _Search bar_ - I want the users to be able to use the search bar to search the site.
+- _Search bar_ - I want the users to be able to use a search bar to search the site.
 
 - _More Pilots_ - In the future I'd like to add more feamle pilots to the 'Meet the Aviatrices' page.
 
@@ -205,6 +205,8 @@ Try to submit the form without a correct syntax e-mail address and you will get 
 - _Language Button_ - A button that can be clicked that translates the site into different languages so more people can use it.
 
 ### Bugs and Fixes Implemented after Testing-
+
+- _Removed Search Bar_ - it was out of my skillset to implement and wouldn't be graded on this assignment.
 
 - _Images_ - The Images within the gallery section index.html and gallery.html made two per row on larger screen sizes instead of 3 per row.
 

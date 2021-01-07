@@ -15,7 +15,8 @@ After speaking to my mentor it was advised that I remove the carousel, in galler
 
 ### Mock Up's -
 
-My mentor advised 2 Images per row in the gallery and gallery section index.html.
+My mentor advised 2 Images per row in the gallery and gallery section index.html. She also advised removing the search bar as it was out of my skillset to implement and
+wouldn't be graded on this assignment.
 
 ![Mock Up picture](./wireframes/MS1.jpeg)
 
