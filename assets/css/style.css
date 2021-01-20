@@ -28,19 +28,17 @@ h1,
 
 .more-button {
     margin-top: 0;
-    margin-bottom: 150px;
+    margin-bottom: 80px;
 }
 
 /* Navbar */
 .navbar {
-    margin-bottom: 40px;
-    padding: 10px 0px 10px 10px;
-    height: 100px;
+    padding: 20px 0px 20px 10px;
 }
 
 .nav-item,
 .navbar-brand {
-    padding: 15px 10px 15px 10px;
+    padding: 2px 2px 2px 2px;
 }
 
 /* Modal */
@@ -78,7 +76,7 @@ h4 {
 
 h2 {
     margin-top: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     font-size: 30px;
 }
 
@@ -100,31 +98,41 @@ h2 {
     position: relative;
     object-fit: cover;
     padding-bottom: 10px;
-    height: auto;
+    height: 100%;
  } 
 
  /* Did you know*/
  .meandkv {
     margin: 10px auto 10px auto;
-    width: 50%;
+    width: 60%;
     height: auto;
     min-height: 200px;
     min-width: 200px
 }
 
-.section2 p,
-.section1 p {
+.label {
+    text-align: center;
+    font-size: 15px; 
+}
+
+.section2 ,
+.section1  {
    font-size: 15px;
-   text-align: center;
+   text-align: left;
+}
+
+.section1 {
+    margin-top: 40px;
 }
 
 .section2 {
-    margin-bottom: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .koliber {
    margin: 10px auto 10px auto;
-   width: 50%;
+   width: 60%;
    height: auto;
    min-height: 180px;
    min-width: 200px
