@@ -35,6 +35,7 @@ h1,
 .navbar {
     margin-bottom: 40px;
     padding: 10px 0px 10px 10px;
+    height: 100px;
 }
 
 .nav-item,
