@@ -136,7 +136,91 @@ The results of this were -
 
 The developer used dev tools to check the resposiveness of all the apps pages, using the dropdown burger menu, which opened from the left as programmed, to click every page link. The 'Top' button was pressed on every page to test for the required action on smaller screen sizes, with the correct response given. The images were viewed and buttons all pressed on various browser sizes in dev tools to check responsiveness, along with forms and the search bar. All pages and thier contents were fully responsive whilst maintaining user friendly design aspects.
 
-8. **Open Issues:**
+8. **Browser Testing:**
+
+The site has been tested on the following browsers
+
+    - Mozilla Firefox; features and icon links perform well on all viewport sizes. 
+Developer tools were also used on browser for the various viewport sizes. 
+The webpages are responsive and the images and contact form respond as expected whilst maintaning user friendly design aspects. 
+All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
+        * All buttons on the 'Home' page were pressed with correct responses given. 
+        * The 'More Pilots' button takes the user to the 'Meet The Aviatrices' page.
+        * The 'More Images' button takes the user to the 'Gallery' page.  
+        * Nav links were clicked and tested for responses. All Nav links take users to the appropriate pages.
+        * The 'Home' navlink brings users to the 'Home' page.
+        * The 'Meet the Aviatrices' navlink takes the user to the the 'Meet The Aviatrices' page.
+        * The 'Gallery' navlink takes the user to the 'Gallery' page.
+        * The modal was opened on every page to ensure correct UX design.
+        * The 'Submit' modal button closes the modal.
+        * The 'Close' modal button closes the modal.
+        * The 'x' closes the modal.  
+
+    - Microsoft Edge; features and icon links perform well on all viewport sizes. 
+Developer tools were also used on browser for the various viewport sizes. 
+The webpages are responsive and the images and contact form respond as expected whilst maintaning user friendly design aspects. 
+All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
+        * All buttons on the 'Home' page were pressed with correct responses given. 
+        * The 'More Pilots' button takes the user to the 'Meet The Aviatrices' page.
+        * The 'More Images' button takes the user to the 'Gallery' page.  
+        * Nav links were clicked and tested for responses. All Nav links take users to the appropriate pages.
+        * The 'Home' navlink brings users to the 'Home' page.
+        * The 'Meet the Aviatrices' navlink takes the user to the the 'Meet The Aviatrices' page.
+        * The 'Gallery' navlink takes the user to the 'Gallery' page.
+        * The modal was opened on every page to ensure correct UX design.
+        * The 'Submit' modal button closes the modal.
+        * The 'Close' modal button closes the modal.
+        * The 'x' closes the modal.  
+
+    - Internet Edge; features and icon links perform well on all viewport sizes. 
+Developer tools were also used on browser for the various viewport sizes. 
+The webpages are responsive and the images and contact form respond as expected whilst maintaning user friendly design aspects. 
+All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
+        * All buttons on the 'Home' page were pressed with correct responses given. 
+        * The 'More Pilots' button takes the user to the 'Meet The Aviatrices' page.
+        * The 'More Images' button takes the user to the 'Gallery' page.  
+        * Nav links were clicked and tested for responses. All Nav links take users to the appropriate pages.
+        * The 'Home' navlink brings users to the 'Home' page.
+        * The 'Meet the Aviatrices' navlink takes the user to the the 'Meet The Aviatrices' page.
+        * The 'Gallery' navlink takes the user to the 'Gallery' page.
+        * The modal was opened on every page to ensure correct UX design.
+        * The 'Submit' modal button closes the modal.
+        * The 'Close' modal button closes the modal.
+        * The 'x' closes the modal.  
+
+    - Google Chrome browser; features and icon links perform well on all viewport sizes. 
+Developer tools were also used on browser for the various viewport sizes. 
+The webpages are responsive and the images and contact form respond as expected whilst maintaning user friendly design aspects. 
+All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
+        * All buttons on the 'Home' page were pressed with correct responses given. 
+        * The 'More Pilots' button takes the user to the 'Meet The Aviatrices' page.
+        * The 'More Images' button takes the user to the 'Gallery' page.  
+        * Nav links were clicked and tested for responses. All Nav links take users to the appropriate pages.
+        * The 'Home' navlink brings users to the 'Home' page.
+        * The 'Meet the Aviatrices' navlink takes the user to the the 'Meet The Aviatrices' page.
+        * The 'Gallery' navlink takes the user to the 'Gallery' page.
+        * The modal was opened on every page to ensure correct UX design.
+        * The 'Submit' modal button closes the modal.
+        * The 'Close' modal button closes the modal.
+        * The 'x' closes the modal.  
+
+    - Safari browser; features and icon links perform well on all viewport sizes. 
+Developer tools were also used on browser for the various viewport sizes. 
+The webpages are responsive and the images and contact form respond as expected whilst maintaning user friendly design aspects. 
+All buttons, markers and links were clicked and tested for responses, all features were used and tested with appropriate responses given.
+        * All buttons on the 'Home' page were pressed with correct responses given. 
+        * The 'More Pilots' button takes the user to the 'Meet The Aviatrices' page.
+        * The 'More Images' button takes the user to the 'Gallery' page.  
+        * Nav links were clicked and tested for responses. All Nav links take users to the appropriate pages.
+        * The 'Home' navlink brings users to the 'Home' page.
+        * The 'Meet the Aviatrices' navlink takes the user to the the 'Meet The Aviatrices' page.
+        * The 'Gallery' navlink takes the user to the 'Gallery' page.
+        * The modal was opened on every page to ensure correct UX design.
+        * The 'Submit' modal button closes the modal.
+        * The 'Close' modal button closes the modal.
+        * The 'x' closes the modal.  
+
+9. **Open Issues:**
    
    - Modal required field can be sightly out of line on some mobile views.
 
